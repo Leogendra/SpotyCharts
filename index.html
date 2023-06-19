@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>SpotyMatch</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="icon" href="logo.ico">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+	
+	<div class="div-title">
+		<div class="div-score-button">
+			<button class="score-button" onClick="toggleScoreView()">Scores</button>
+		</div>
+		<div class="title fancy" onClick="backToMenu();">
+			<h1>SpotyMatch</h1>
+		</div>
+		<div class="match-number">
+			<h2>Matchs : <span class="nb-matchs">0%</span></h2>
+		</div>
+	</div>
+
+	<div class="container">
+
+		<form class="playlist-form">
+			<!-- <div class="div-slider-album">
+				<label class="playlist-label">Playlist</label>
+				<label class="switch-album">
+					<input type="checkbox" class="checkbox-album">
+					<span class="slider-album"></span>
+				</label>
+				<label class="album-label">Album</label>
+			</div> -->
+			<input type="text" class="playlist-id" placeholder="URL de la Playlist/Album">
+			<p class="error-text"></p>
+			<button class="playlist-button" type="submit">Valider</button>
+		</form>
+
+		<div class="card-container">
+			<div class="card choice" onClick="titleClicked(1)">
+				<img class="card-img" src="">
+				<div class="card-info">
+					<h2 class="card-title"></h2>
+					<p class="card-artist"></p>
+					<input type="hidden" class="card-uri">
+				</div>
+			</div>
+			<div class="card choice" onClick="titleClicked(2)">
+				<img class="card-img" src="">
+				<div class="card-info">
+					<h2 class="card-title"></h2>
+					<p class="card-artist"></p>
+					<input type="hidden" class="card-uri">
+				</div>
+			</div>
+		</div>
+
+		<div class="affichage-scores"></div>
+
+	</div>
+
+	<script src="auth.js"></script>
+	<script src="app.js"></script>
+	<script src="card.js"></script>
+</body>
+
+</html>

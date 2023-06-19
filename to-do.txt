@@ -1,0 +1,5 @@
+[x] playlist ou album
+    -> [x] URL entier
+[x] Garder les données -> localStorage
+[] choisir le nombre de sons à récupérer (ex 50 premiers)
+[] Connexion pour playlist privée

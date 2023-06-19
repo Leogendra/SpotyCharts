@@ -1,13 +1,9 @@
-# SpotyMatch v1.2.3
+# SpotyCharts v1.0.0
 
-https://leogendra.github.io/SpotyMatch/
+https://SpotyCharts.gatienh.fr
 
-- Entrez l'URL d'une playlist ou d'un album
-- Choissisez entre deux titre préféré
-- Regardez le classement (utilise le [système de classement élo](https://en.wikipedia.org/wiki/Elo_rating_system#Mathematical_details))
-- Entrez "album" pour avoir un album par défaut
+- Comparez deux artistes et trouvez celui avec le plus d'écoute mensuelle
 
-Classements sauvegardés dans le `localStorage`
+Score sauvegardé dans le `localStorage`
 
-Entrez "clear" pour réinitialiser tous les classements
-# SpotyCharts
+Entrez "réinitialiser" pour réinitialiser le score
