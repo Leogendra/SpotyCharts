@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/favicon.ico">
+    <link rel="stylesheet" href="styles/home.css">
+    <link rel="stylesheet" href="styles/cards.css">
+    <link rel="stylesheet" href="styles/scores.css">
+    <title>SpotyCharts</title>
+</head>
+
+<body>
+    <div class="home">
+        <div class="big-title">SpotyCharts</div>
+        <div class="choose-mode">Choissisez un mode de jeu : </div>
+        <section class="modes">
+            <div>
+                <input type="radio" id="control_01" name="select" value="1">
+                <label for="control_01">
+                    <h2 class="mode">Followers</h2>
+                </label>
+            </div>
+            <div>
+                <input type="radio" id="control_02" name="select" value="2" checked>
+                <label for="control_02">
+                    <h2 class="mode">Auditeurs mensuels</h2>
+                </label>
+            </div>
+            <div>
+                <input type="radio" id="control_03" name="select" value="3">
+                <label for="control_03">
+                    <h2 class="mode">Classement mondial</h2>
+                </label>
+            </div>
+        </section>
+
+        <button class="animated-button">
+            <div class="rotating-image">
+                <img src="assets/banniere_black.png" alt="SpotyCharts">
+            </div>
+            <div class="inner-button">
+                Jouer
+            </div>
+        </button>
+    </div>
+
+    <div class="game">
+
+        <div class="card-container">
+            <div class="card choice" data-vote="1">
+                <img class="card-img" src="">
+                <img class="card-img-wide" src="">
+                <div class="card-info">
+                    <h2 class="card-artist"></h2>
+                    <p class="card-followers"></p>
+                    <input type="hidden" class="card-uri">
+                </div>
+            </div>
+
+            <div class="div-scores">
+                <div class="help">
+                    Qui a le plus <span class="gras">d'auditeurs mensuels ?</span>
+                </div>
+                <div class="score gras">
+                    <span class="nb-score">0</span>🔥
+                </div>
+                <div class="best">
+                    Record : <span class="nb-best">0</span>
+                </div>
+            </div>
+
+            <div class="card choice" data-vote="2">
+                <img class="card-img" src="">
+                <img class="card-img-wide" src="">
+                <div class="card-info">
+                    <h2 class="card-artist"></h2>
+                    <p class="card-followers"></p>
+                    <input type="hidden" class="card-uri">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts/utils.js"></script>
+    <script src="scripts/parseur.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,121 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    max-width: 1300px;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.card-container > * {
+    margin: 0 5%;
+}
+
+.card {
+    width: 250px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #454646;
+    box-shadow: -2vmin 2vmin 3vmin rgba(0, 0, 0, 0.4);
+    transition: transform 400ms ease;
+    position: relative;
+}
+
+.card-img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.card-img-wide {
+    display: none;
+}
+
+.card-info {
+    padding: 10px 20px;
+    text-align: left;
+    color: white;
+    overflow: hidden;
+}
+
+.card-artist {
+    margin: 10px 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-followers {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+@media only screen and (min-device-width : 800px) {
+
+    .choice:nth-child(1):hover {
+        transform: translate(-5%, 0%) rotate(-2deg);
+    }
+    
+    .choice:nth-child(3):hover {
+        transform: translate(5%, 0%) rotate(2deg);
+    }
+}
+
+@media only screen and (max-device-width : 800px) {
+    .game {
+        overflow: hidden;
+    }
+
+    .card-container {
+        flex-direction: column;
+        width: 110%;
+        height: 100%;
+        margin: 0;
+    }
+
+    .card {
+        width: 100%;
+        height: 30%;
+        min-height: 100px;
+        max-height: 300px;
+        aspect-ratio: unset;
+        display: flex;
+        padding: 0;
+        margin: 0;
+        flex-direction: column-reverse;
+    }
+
+    .card-img {
+        display: none;
+    }
+
+    .card-img-wide {
+        display: block;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .card-info {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+    }
+
+    .card-artist {
+        font-size: 1.3em;
+    }
+
+    .card-followers {
+        font-size: 1.5em;
+    }
+}

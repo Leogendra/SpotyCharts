@@ -1,13 +1,10 @@
-# SpotyMatch v1.2.3
+# SpotyCharts v1.0
 
-https://leogendra.github.io/SpotyMatch/
+## https://spotycharts.gatienh.fr
 
-- Entrez l'URL d'une playlist ou d'un album
-- Choissisez entre deux titre préféré
-- Regardez le classement (utilise le [système de classement élo](https://en.wikipedia.org/wiki/Elo_rating_system#Mathematical_details))
-- Entrez "album" pour avoir un album par défaut
+Evaluez vos connaisances sur les artistes du Top mondial avec plus de 180 artistes disponible
 
-Classements sauvegardés dans le `localStorage`
-
-Entrez "clear" pour réinitialiser tous les classements
-# SpotyCharts
+3 modes de jeu disponibles :
+- Followers
+- Auditeurs mensuels
+- Classement mondial

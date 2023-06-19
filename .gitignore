@@ -1,0 +1,5 @@
+# cache
+.vscode/
+
+# useless big files
+data/
