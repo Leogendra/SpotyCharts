@@ -1,4 +1,4 @@
-# SpotyCharts v1.0
+# SpotyCharts v1.2
 
 ## https://spotycharts.gatienh.fr
 
@@ -8,3 +8,5 @@ Evaluez vos connaisances sur les artistes du Top mondial avec plus de 180 artist
 - Followers
 - Auditeurs mensuels
 - Classement mondial
+
+Un mode speedrun est disponible en cliquant sur le logo SPOTYCHARTS 😉
