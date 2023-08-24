@@ -50,10 +50,17 @@ home_button.addEventListener("click", async (event) => {
 
 // activation du mode speedrun
 big_title.addEventListener("click", async (event) => {
-    console.log("speedrun activé");
-    speed = true;
     const rotating_img = document.querySelector('.rotating-image img');
-    rotating_img.style.animation = 'rotateImage 2s linear infinite';
+    if (speed) {
+        speed = false;
+        rotating_img.style.animation = 'rotateImage 10s linear infinite';
+        console.log("speedrun désactivé");
+    }
+    else {
+        speed = true;
+        rotating_img.style.animation = 'rotateImage 2s linear infinite';
+        console.log("speedrun activé");
+    }
 });
 
 

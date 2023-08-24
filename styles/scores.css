@@ -9,6 +9,7 @@
 
 .gras {
     font-weight: 700;
+    text-decoration: underline;
 }
 
 .help {
@@ -20,6 +21,7 @@
 .score {
     margin: 0 10px;
     font-size: 4rem;
+    font-weight: 700;
     transition: transform 0.2s ease-out;
 }
 
