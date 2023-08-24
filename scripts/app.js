@@ -24,16 +24,26 @@ home_button.addEventListener("click", async (event) => {
     event.preventDefault();
 
     if (localStorage.getItem("record-followers") != null) {
-        if (mode == "followers") {record = localStorage.getItem("record-followers");}
-        else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners");}
-        else {record = localStorage.getItem("record-worldRank");}
+        if (language == "en") {
+            if (mode == "followers") {record = localStorage.getItem("record-followers-en");}
+            else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners-en");}
+            else {record = localStorage.getItem("record-worldRank-en");}
+        }
+        else {
+            if (mode == "followers") {record = localStorage.getItem("record-followers-fr");}
+            else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners-fr");}
+            else {record = localStorage.getItem("record-worldRank-fr");}
+        }
         text_best.textContent = record;
     }
     else {
         text_best.textContent = "0";
-        localStorage.setItem("record-followers", 0);
-        localStorage.setItem("record-monthlyListeners", 0);
-        localStorage.setItem("record-worldRank", 0);
+        localStorage.setItem("record-followers-en", 0);
+        localStorage.setItem("record-monthlyListeners-en", 0);
+        localStorage.setItem("record-worldRank-en", 0);
+        localStorage.setItem("record-followers-fr", 0);
+        localStorage.setItem("record-monthlyListeners-fr", 0);
+        localStorage.setItem("record-worldRank-fr", 0);
     }
 
     const inner_button = document.querySelector('.inner-button');
@@ -226,9 +236,16 @@ async function play() {
 
         if (artist_counter > record) {
             record = artist_counter;
-            if (mode == "followers") {localStorage.setItem("record-followers", record);}
-            else if (mode == "monthlyListeners") {localStorage.setItem("record-monthlyListeners", record);}
-            else {localStorage.setItem("record-worldRank", record);}
+            if (language == "en") {
+                if (mode == "followers") {localStorage.setItem("record-followers-en", record);}
+                else if (mode == "monthlyListeners") {localStorage.setItem("record-monthlyListeners-en", record);}
+                else {localStorage.setItem("record-worldRank-en", record);}
+            }
+            else {
+                if (mode == "followers") {localStorage.setItem("record-followers-fr", record);}
+                else if (mode == "monthlyListeners") {localStorage.setItem("record-monthlyListeners-fr", record);}
+                else {localStorage.setItem("record-worldRank-fr", record);}
+            }
             text_best.textContent = record;
         }
 
