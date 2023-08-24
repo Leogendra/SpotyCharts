@@ -153,7 +153,7 @@ async function revealNumber(artist, mode) {
         durationMs = 1000;
     }
     else {
-        durationMs = Math.floor(Math.random() * (5000 - 2000)) + 2000;
+        durationMs = Math.floor(Math.random() * (4000 - 2000)) + 2000;
     }
     const updateInterval = 20; // en ms
     const steps = durationMs / updateInterval;

@@ -66,15 +66,21 @@
 }
 
 @media only screen and (max-device-width : 800px) {
+    .menu {
+        margin-top: 20px;
+        /* overflow: hidden; */
+    }
+
     .game {
-        overflow: hidden;
+        height: 100%;
+        margin: auto 0 auto;
     }
 
     .card-container {
         flex-direction: column;
         width: 110%;
         height: 100%;
-        margin: 0;
+        margin: -10px 0 0;
     }
 
     .card {
@@ -86,6 +92,7 @@
         display: flex;
         padding: 0;
         margin: 0;
+        border-radius: 0;
         flex-direction: column-reverse;
     }
 
@@ -97,6 +104,7 @@
         display: block;
         height: 100%;
         object-fit: cover;
+        overflow: hidden;
     }
 
     .card-info {
