@@ -2,8 +2,9 @@ const div_home = document.querySelector('.home');
 const div_game = document.querySelector('.game');
 
 const big_title = document.querySelector('.big-title');
-const home_button = document.querySelector('.animated-button');
+const language_button = document.querySelector('.slide');
 const all_modes = document.querySelectorAll('input[name="select"]');
+const home_button = document.querySelector('.animated-button');
 
 const text_help = document.querySelector('.help');
 const text_help_span = document.querySelector('.help .gras');
@@ -14,6 +15,7 @@ const firstCardFollowers = document.querySelector('.card.choice:nth-child(1) .ca
 const secondCardFollowers = document.querySelector('.card.choice:nth-child(3) .card-followers');
 
 var mode = "monthlyListeners";
+var language = "en";
 var speed = false;
 var record = 0;
 
@@ -63,6 +65,13 @@ big_title.addEventListener("click", async (event) => {
     }
 });
 
+// changement de langue
+language_button.addEventListener("click", async (event) => {
+    if (language == "en") {language = "fr";}
+    else {language = "en";}
+    console.log("langue : " + language);
+});
+
 
 all_modes.forEach(radioButton => {
     radioButton.addEventListener('change', event => {
@@ -82,8 +91,14 @@ all_modes.forEach(radioButton => {
 
 async function getArtist() {
     try {
-        const artistData = await loadAndParseJSON("../data/data.json");
-        return artistData;
+        if (language == "en") {
+            const artistData = await loadAndParseJSON("../data/data_en.json");
+            return artistData;
+        }
+        else {
+            const artistData = await loadAndParseJSON("../data/data_fr.json");
+            return artistData;
+        }
     } 
     catch (error) {
         throw new Error('Une erreur s\'est produite lors de la récupération des données d\'artiste :' + error.message);

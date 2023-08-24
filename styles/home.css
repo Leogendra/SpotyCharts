@@ -43,8 +43,9 @@ body {
 }
 
 .choose-mode {
+    display: none;
     font-size: 1.5rem;
-    margin: 0 0 20px;
+    margin: 0 0 10px;
     text-align: center;
 }
 
@@ -63,7 +64,7 @@ input[type="radio"] {
     cursor: pointer;
 }
 
-label {
+.label_modes {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -122,8 +123,8 @@ input[type="radio"]:checked+label::after {
     cursor: pointer;
     background-color: #6ed46a;
     /* background-color: #f6d93b; */
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin-top: 30px;
 }
@@ -201,14 +202,16 @@ input[type="radio"]:checked+label::after {
     }
 
     .choose-mode {
+        display: block;
         font-size: 1rem;
+        margin-bottom: 15px;
     }
 
     section {
         flex-direction: column;
     }
 
-    label {
+    .label_modes {
         font-size: 0.7rem;
         padding: 8px 20px;
     }
