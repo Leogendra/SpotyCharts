@@ -2,11 +2,10 @@
 
 ## https://spotycharts.gatienh.fr
 
-Evaluez vos connaisances sur les artistes du Top mondial avec plus de 180 artistes disponible
+Evaluez vos connaisances sur les artistes Spotify, avec 220+ artistes du Top mondial, et 110+ artistes Français !
 
-3 modes de jeu disponibles :
+2 modes de jeu disponibles :
 - Followers
 - Auditeurs mensuels
-- Classement mondial
 
 Un mode speedrun est disponible en cliquant sur le logo SPOTYCHARTS 😉
