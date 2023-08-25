@@ -8,4 +8,6 @@ Evaluez vos connaisances sur les artistes Spotify, avec 220+ artistes du Top mon
 - Followers
 - Auditeurs mensuels
 
+Vous ne reconnaisez pas l'artiste ? appuyez sur "Qui" pour voir sa musique la plus connue
+
 Un mode speedrun est disponible en cliquant sur le logo SPOTYCHARTS 😉
