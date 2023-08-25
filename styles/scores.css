@@ -9,13 +9,21 @@
 
 .gras {
     font-weight: 700;
+}
+
+.souligne {
     text-decoration: underline;
+}
+
+.italique {
+    font-style: italic;
 }
 
 .help {
     text-align: center;
     font-size: 1.2rem;
     margin: 20px;
+    cursor: help;
 }
 
 .score {

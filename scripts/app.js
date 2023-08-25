@@ -25,10 +25,10 @@ home_button.addEventListener("click", async (event) => {
 
     if (localStorage.getItem("record-followers-en") != null) {
 
-        if (mode == "followers") {record = localStorage.getItem("record-followers-" + language);}
-        else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners-" + language);}
-        else {record = localStorage.getItem("record-worldRank-" + language);}
-        
+        if (mode == "followers") { record = localStorage.getItem("record-followers-" + language); }
+        else if (mode == "monthlyListeners") { record = localStorage.getItem("record-monthlyListeners-" + language); }
+        else { record = localStorage.getItem("record-worldRank-" + language); }
+
         text_best.textContent = record;
     }
     else {
@@ -44,7 +44,7 @@ home_button.addEventListener("click", async (event) => {
     const inner_button = document.querySelector('.inner-button');
     inner_button.classList.add('start-animation');
     inner_button.textContent = ""
-    
+
     await delay(1000);
 
     div_home.style.display = "none";
@@ -70,14 +70,16 @@ big_title.addEventListener("click", async (event) => {
     }
 });
 
+
 // changement de langue
 language_button.addEventListener("click", async (event) => {
-    if (language == "en") {language = "fr";}
-    else {language = "en";}
+    if (language == "en") { language = "fr"; }
+    else { language = "en"; }
     console.log("langue : " + language);
 });
 
 
+// choix du mode
 all_modes.forEach(radioButton => {
     radioButton.addEventListener('change', event => {
         const selectedValue = event.target.value;
@@ -94,6 +96,25 @@ all_modes.forEach(radioButton => {
 });
 
 
+// changement de l'artiste/son le plus connu
+text_help.addEventListener("click", async (event) => {
+    const artistCards = document.querySelectorAll('.card-artist');
+    const songCards = document.querySelectorAll('.card-song');
+
+    console.log("Changement de l'artiste/son le plus connu");
+
+    artistCards.forEach(card => card.style.display = "none");
+    songCards.forEach(card => card.style.display = "block");
+
+    await delay(3000);
+
+    songCards.forEach(card => card.style.display = "none");
+    artistCards.forEach(card => card.style.display = "block");
+});
+
+
+
+
 async function getArtist() {
     try {
         if (language == "en") {
@@ -104,7 +125,7 @@ async function getArtist() {
             const artistData = await loadAndParseJSON("../data/data_fr.json");
             return artistData;
         }
-    } 
+    }
     catch (error) {
         throw new Error('Une erreur s\'est produite lors de la récupération des données d\'artiste :' + error.message);
     }
@@ -116,15 +137,15 @@ function getNumberToDisplay(artist, mode) {
 
     if (mode == "followers") {
         nbToDisplay = artist.followers;
-        text_help.innerHTML = "Qui a le plus <span class='gras'>de followers</span> ?";
+        text_help.innerHTML = "Qui a le plus <span class='gras souligne'>de followers</span> ?";
     }
     else if (mode == "monthlyListeners") {
         nbToDisplay = artist.monthlyListeners;
-        text_help.innerHTML = "Qui a le plus <span class='gras'>d'auditeurs mensuels</span> ?";
+        text_help.innerHTML = "Qui a le plus <span class='gras souligne'>d'auditeurs mensuels</span> ?";
     }
     else {
         nbToDisplay = artist.worldRank;
-        text_help.innerHTML = "Qui est le <span class='gras'>mieux classé</span> ?";
+        text_help.innerHTML = "Qui est le <span class='gras souligne'>mieux classé</span> ?";
     }
 
     return nbToDisplay;
@@ -145,31 +166,40 @@ async function updateCardWithArtistsInfo(artist, numCard, mode) {
     else {
         cardImgWide.src = artist.avatarImage;
     }
-    
+
 
     const cardArtist = card.querySelector('.card-artist');
     cardArtist.textContent = artist.name;
 
+    // Nb followers
     const cardFollowers = card.querySelector('.card-followers');
     let stringToDisplay;
     if (numCard == 1) {
-        if (mode == "worldRank") {
-            stringToDisplay = "Top " + getNumberToDisplay(artist, mode);
-        }
-        else {
-            stringToDisplay = formatNumber(getNumberToDisplay(artist, mode));
-        }
+        if (mode == "worldRank") { stringToDisplay = "Top " + getNumberToDisplay(artist, mode); }
+        else { stringToDisplay = formatNumber(getNumberToDisplay(artist, mode)); }
     }
     else {
-        if (mode == "worldRank") {
-            stringToDisplay = "Top ???";
-        }
-        else {
-            stringToDisplay = "??? ??? ???";
-        }
-        
+        if (mode == "worldRank") { stringToDisplay = "Top ???"; }
+        else { stringToDisplay = "??? ??? ???"; }
     }
     cardFollowers.textContent = stringToDisplay;
+
+    // Most famous song
+    let songWithHighestPlaycount = null;
+    let highestPlaycount = 0;
+
+    artist.topSongs.forEach(song => {
+        const playcount = parseInt(song.playcount);
+        if (playcount > highestPlaycount) {
+            highestPlaycount = playcount;
+            songWithHighestPlaycount = song;
+        }
+    });
+
+    if (songWithHighestPlaycount != null) {
+        const cardSong = card.querySelector('.card-song');
+        cardSong.textContent = songWithHighestPlaycount.name;
+    }
 }
 
 
@@ -232,14 +262,14 @@ async function play() {
         if (artist_counter > record) {
             record = artist_counter;
             if (language == "en") {
-                if (mode == "followers") {localStorage.setItem("record-followers-en", record);}
-                else if (mode == "monthlyListeners") {localStorage.setItem("record-monthlyListeners-en", record);}
-                else {localStorage.setItem("record-worldRank-en", record);}
+                if (mode == "followers") { localStorage.setItem("record-followers-en", record); }
+                else if (mode == "monthlyListeners") { localStorage.setItem("record-monthlyListeners-en", record); }
+                else { localStorage.setItem("record-worldRank-en", record); }
             }
             else {
-                if (mode == "followers") {localStorage.setItem("record-followers-fr", record);}
-                else if (mode == "monthlyListeners") {localStorage.setItem("record-monthlyListeners-fr", record);}
-                else {localStorage.setItem("record-worldRank-fr", record);}
+                if (mode == "followers") { localStorage.setItem("record-followers-fr", record); }
+                else if (mode == "monthlyListeners") { localStorage.setItem("record-monthlyListeners-fr", record); }
+                else { localStorage.setItem("record-worldRank-fr", record); }
             }
             text_best.textContent = record;
         }
@@ -275,45 +305,45 @@ async function play() {
             if (vote == 1) {
                 if (numberToDisplay1 <= numberToDisplay2) {
                     firstCardFollowers.style.color = "#1fd760";
-                } 
+                }
                 else {
                     firstCardFollowers.style.color = "red";
-                    win = false;
-                }
-            } 
-            else if (vote == 2) {
-                if (numberToDisplay1 >= numberToDisplay2) {
-                    secondCardFollowers.style.color = "#1fd760";
-                } 
-                else {
-                    secondCardFollowers.style.color = "red";
                     win = false;
                 }
             }
-        } 
-        else {
-            if (vote == 1) {
-                if (numberToDisplay1 >= numberToDisplay2) {
-                    firstCardFollowers.style.color = "#1fd760";
-                } 
-                else {
-                    firstCardFollowers.style.color = "red";
-                    win = false;
-                }
-            } 
             else if (vote == 2) {
-                if (numberToDisplay1 <= numberToDisplay2) {
+                if (numberToDisplay1 >= numberToDisplay2) {
                     secondCardFollowers.style.color = "#1fd760";
-                } 
+                }
                 else {
                     secondCardFollowers.style.color = "red";
                     win = false;
                 }
             }
         }
-        
+        else {
+            if (vote == 1) {
+                if (numberToDisplay1 >= numberToDisplay2) {
+                    firstCardFollowers.style.color = "#1fd760";
+                }
+                else {
+                    firstCardFollowers.style.color = "red";
+                    win = false;
+                }
+            }
+            else if (vote == 2) {
+                if (numberToDisplay1 <= numberToDisplay2) {
+                    secondCardFollowers.style.color = "#1fd760";
+                }
+                else {
+                    secondCardFollowers.style.color = "red";
+                    win = false;
+                }
+            }
+        }
 
-        
+
+
         if (speed) {
             await delay(1500);
         }

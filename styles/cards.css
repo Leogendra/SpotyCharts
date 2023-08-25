@@ -41,9 +41,17 @@
 }
 
 .card-artist {
+    display: block;
     margin: 10px 0;
     font-size: 1.4rem;
     font-weight: 700;
+    text-align: center;
+}
+
+.card-song {
+    display: none;
+    margin: 10px 0;
+    font-size: 1.3rem;
     text-align: center;
 }
 
