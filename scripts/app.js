@@ -23,17 +23,12 @@ var record = 0;
 home_button.addEventListener("click", async (event) => {
     event.preventDefault();
 
-    if (localStorage.getItem("record-followers") != null) {
-        if (language == "en") {
-            if (mode == "followers") {record = localStorage.getItem("record-followers-en");}
-            else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners-en");}
-            else {record = localStorage.getItem("record-worldRank-en");}
-        }
-        else {
-            if (mode == "followers") {record = localStorage.getItem("record-followers-fr");}
-            else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners-fr");}
-            else {record = localStorage.getItem("record-worldRank-fr");}
-        }
+    if (localStorage.getItem("record-followers-en") != null) {
+
+        if (mode == "followers") {record = localStorage.getItem("record-followers-" + language);}
+        else if (mode == "monthlyListeners") {record = localStorage.getItem("record-monthlyListeners-" + language);}
+        else {record = localStorage.getItem("record-worldRank-" + language);}
+        
         text_best.textContent = record;
     }
     else {
