@@ -278,7 +278,7 @@ async function play() {
 
         if (mode === "worldRank") {
             if (vote == 1) {
-                if (numberToDisplay1 < numberToDisplay2) {
+                if (numberToDisplay1 <= numberToDisplay2) {
                     firstCardFollowers.style.color = "#1fd760";
                 } 
                 else {
@@ -287,7 +287,7 @@ async function play() {
                 }
             } 
             else if (vote == 2) {
-                if (numberToDisplay1 > numberToDisplay2) {
+                if (numberToDisplay1 >= numberToDisplay2) {
                     secondCardFollowers.style.color = "#1fd760";
                 } 
                 else {
@@ -298,7 +298,7 @@ async function play() {
         } 
         else {
             if (vote == 1) {
-                if (numberToDisplay1 > numberToDisplay2) {
+                if (numberToDisplay1 >= numberToDisplay2) {
                     firstCardFollowers.style.color = "#1fd760";
                 } 
                 else {
@@ -307,7 +307,7 @@ async function play() {
                 }
             } 
             else if (vote == 2) {
-                if (numberToDisplay1 < numberToDisplay2) {
+                if (numberToDisplay1 <= numberToDisplay2) {
                     secondCardFollowers.style.color = "#1fd760";
                 } 
                 else {
