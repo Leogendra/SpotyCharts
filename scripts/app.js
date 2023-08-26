@@ -20,6 +20,11 @@ var speed = false;
 var record = 0;
 
 
+window.addEventListener("load", function() {
+    setLastUpdate("../data/data_en.json");
+});
+
+
 home_button.addEventListener("click", async (event) => {
     event.preventDefault();
 
@@ -73,9 +78,14 @@ big_title.addEventListener("click", async (event) => {
 
 // changement de langue
 language_button.addEventListener("click", async (event) => {
-    if (language == "en") { language = "fr"; }
-    else { language = "en"; }
-    console.log("langue : " + language);
+    if (language == "en") { 
+        language = "fr"; 
+        setLastUpdate("../data/data_fr.json");
+    }
+    else { 
+        language = "en"; 
+        setLastUpdate("../data/data_en.json");
+    }
 });
 
 
@@ -114,6 +124,23 @@ text_help.addEventListener("click", async (event) => {
 
 
 
+async function setLastUpdate(file_name) {
+    const artistData = await loadAndParseJSON(file_name);
+    const maj_date = document.querySelector('.maj-date');
+    let mostRecentDate = new Date(artistData[0].lastUpdate);
+
+    for (let i = 0; i < artistData.length; i++) {
+        let date = new Date(artistData[i].lastUpdate * 1000);
+        if (date > mostRecentDate) {
+            mostRecentDate = date;
+        }
+    }
+
+    maj_date.textContent = mostRecentDate.toLocaleDateString('fr-FR', { day: 'numeric', month: 'numeric', year: 'numeric' });
+}
+
+
+/***************** FONCTIONS DE CHARGEMENT *****************/
 
 async function getArtist() {
     try {
