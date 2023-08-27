@@ -86,9 +86,10 @@
 
     .card-container {
         flex-direction: column;
+        justify-content: flex-start;
         width: 110%;
         height: 100%;
-        margin: -10px 0 0;
+        margin: 20px 0 0;
     }
 
     .card {
