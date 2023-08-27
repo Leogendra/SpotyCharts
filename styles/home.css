@@ -213,6 +213,7 @@ input[type="radio"]:checked+label::after {
     }
 
     .label_modes {
+        margin-bottom: 1.2rem;
         font-size: 0.7rem;
         padding: 8px 20px;
     }
@@ -224,7 +225,7 @@ input[type="radio"]:checked+label::after {
     .animated-button {
         width: 150px;
         height: 150px;
-        margin-top: 0px;
+        margin-top: 30px;
     }
 
     .inner-button {
