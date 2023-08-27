@@ -1,4 +1,4 @@
-# SpotyCharts v1.2
+# SpotyCharts v1.3
 
 ## https://spotycharts.gatienh.fr
 
