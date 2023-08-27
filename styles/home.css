@@ -44,6 +44,7 @@ body {
 
 .choose-mode {
     /* display: none; */
+    color: rgba(0,0,0,.3);
     font-size: 1.0rem;
     margin: 0 0 10px;
     text-align: center;
@@ -203,7 +204,7 @@ input[type="radio"]:checked+label::after {
 
     .choose-mode {
         display: block;
-        font-size: 1rem;
+        font-size: 0.8rem;
         margin-bottom: 15px;
     }
 
