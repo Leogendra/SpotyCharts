@@ -1,0 +1,4749 @@
+[
+    {
+        "id": "164Uj4eKjl6zTBKfJLFKKK",
+        "name": "JVKE",
+        "followers": 5367914,
+        "worldRank": 0,
+        "monthlyListeners": 16287008,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb9028079005146db88f6133d0",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016149089560def74727085cb87",
+        "topSongs": [
+            {
+                "id": "5odlY52u43F5BjByhxg7wg",
+                "name": "golden hour",
+                "playcount": "1339133480"
+            },
+            {
+                "id": "2PWTZV5znjLtZC5T1EVJvL",
+                "name": "this is what falling in love feels like",
+                "playcount": "565942477"
+            },
+            {
+                "id": "6G9YlbU3ByPJQvOFDRdwyM",
+                "name": "her",
+                "playcount": "48438641"
+            }
+        ],
+        "lastUpdate": 1744988300
+    },
+    {
+        "id": "2nszmSgqreHSdJA3zWPyrW",
+        "name": "Luis Miguel",
+        "followers": 18944445,
+        "worldRank": 0,
+        "monthlyListeners": 15379267,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d3aadc9950e22b4d0cdded71",
+        "topSongs": [
+            {
+                "id": "1uKjQoh8JZj9ryuYRhpd7E",
+                "name": "Ahora Te Puedes Marchar",
+                "playcount": "828034014"
+            },
+            {
+                "id": "6F9yAYUaNbUhdlQyt5uZ3b",
+                "name": "La Incondicional",
+                "playcount": "664417558"
+            },
+            {
+                "id": "6vPAmoERUMRoTZaCCSWQ12",
+                "name": "Hasta Que Me Olvides",
+                "playcount": "527109976"
+            }
+        ],
+        "lastUpdate": 1744988311
+    },
+    {
+        "id": "0hEurMDQu99nJRq8pTxO14",
+        "name": "John Mayer",
+        "followers": 6167622,
+        "worldRank": 0,
+        "monthlyListeners": 15542569,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835",
+        "topSongs": [
+            {
+                "id": "2jdAk8ATWIL3dwT47XpRfu",
+                "name": "Slow Dancing in a Burning Room",
+                "playcount": "575977830"
+            },
+            {
+                "id": "5imShWWzwqfAJ9gXFpGAQh",
+                "name": "Waiting On the World to Change",
+                "playcount": "504275055"
+            },
+            {
+                "id": "4T6FWA703h6H7zk1FoSARw",
+                "name": "New Light",
+                "playcount": "763630513"
+            }
+        ],
+        "lastUpdate": 1744988313
+    },
+    {
+        "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+        "name": "David Bowie",
+        "followers": 11333572,
+        "worldRank": 0,
+        "monthlyListeners": 15617864,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a98d977f352a3c297d760c4d",
+        "topSongs": [
+            {
+                "id": "4okLKeB83VLZFGGtrMQxpd",
+                "name": "Under Pressure",
+                "playcount": "1856567163"
+            },
+            {
+                "id": "0pQskrTITgmCMyr85tb9qq",
+                "name": "Starman - 2012 Remaster",
+                "playcount": "616174616"
+            },
+            {
+                "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+                "name": "Heroes - 2017 Remaster",
+                "playcount": "563236743"
+            }
+        ],
+        "lastUpdate": 1744988316
+    },
+    {
+        "id": "3LZZPxNDGDFVSIPqf4JuEf",
+        "name": "Ice Spice",
+        "followers": 4543342,
+        "worldRank": 0,
+        "monthlyListeners": 12478102,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb99878733414d6d04a20a5c3e",
+        "topSongs": [
+            {
+                "id": "5CCr8msaN3MhgqBoa9yWhH",
+                "name": "Boy's a liar Pt. 2",
+                "playcount": "958740919"
+            },
+            {
+                "id": "2BNcawEW0KlzLW9DeHzXZJ",
+                "name": "Did It First (with Central Cee)",
+                "playcount": "207725391"
+            },
+            {
+                "id": "741UUVE2kuITl0c6zuqqbO",
+                "name": "Barbie World (with Aqua) [From Barbie The Album]",
+                "playcount": "533608863"
+            }
+        ],
+        "lastUpdate": 1744988317
+    },
+    {
+        "id": "31W5EY0aAly4Qieq6OFu6I",
+        "name": "A Boogie Wit da Hoodie",
+        "followers": 8762145,
+        "worldRank": 0,
+        "monthlyListeners": 14380960,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebebe9d9f649d6ef85497f71af",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016237ccff6a53ab489b53359e9",
+        "topSongs": [
+            {
+                "id": "1f5cbQtDrykjarZVrShaDI",
+                "name": "Drowning (feat. Kodak Black)",
+                "playcount": "1016885868"
+            },
+            {
+                "id": "3Ol2xnObFdKV9pmRD2t9x8",
+                "name": "Look Back at It",
+                "playcount": "853070645"
+            },
+            {
+                "id": "2FTeQQ5Rg9tBpgpTF5mnhE",
+                "name": "Still Think About You",
+                "playcount": "477750810"
+            }
+        ],
+        "lastUpdate": 1744988318
+    },
+    {
+        "id": "41MozSoPIsD1dJM0CLPjZF",
+        "name": "BLACKPINK",
+        "followers": 53568189,
+        "worldRank": 0,
+        "monthlyListeners": 15622508,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101637ee2204fb28907fd95ece38",
+        "topSongs": [
+            {
+                "id": "5zwwW9Oq7ubSxoCGyW1nbY",
+                "name": "Pink Venom",
+                "playcount": "850412428"
+            },
+            {
+                "id": "7gRFDGEzF9UkBV233yv2dc",
+                "name": "Shut Down",
+                "playcount": "752814876"
+            },
+            {
+                "id": "4SFknyjLcyTLJFPKD2m96o",
+                "name": "How You Like That",
+                "playcount": "1123248963"
+            }
+        ],
+        "lastUpdate": 1744988320
+    },
+    {
+        "id": "7wlFDEWiM5OoIAt8RSli8b",
+        "name": "YoungBoy Never Broke Again",
+        "followers": 13916106,
+        "worldRank": 0,
+        "monthlyListeners": 16105921,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb1d6eaf7ad3417765577cac4",
+        "headerImage": "https://i.scdn.co/image/ab676186000010169ff6a17af5af92c04c543c6c",
+        "topSongs": [
+            {
+                "id": "1cMMVJ4FDqhCci9efd1BU6",
+                "name": "Need It (feat. YoungBoy Never Broke Again)",
+                "playcount": "406539284"
+            },
+            {
+                "id": "5B0kgjHULYJhAQkK5XsMoC",
+                "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+                "playcount": "403761340"
+            },
+            {
+                "id": "1oWM79mUVdZGCGYjSirHZR",
+                "name": "Bandit (with YoungBoy Never Broke Again)",
+                "playcount": "1001843368"
+            }
+        ],
+        "lastUpdate": 1744988321
+    },
+    {
+        "id": "2qxJFvFYMEDqd7ui6kSAcq",
+        "name": "Zedd",
+        "followers": 6071382,
+        "worldRank": 0,
+        "monthlyListeners": 16053155,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe28762aed82cde1178fb3873",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016ce76f411715c84912e1a1239",
+        "topSongs": [
+            {
+                "id": "09IStsImFySgyp0pIQdqAc",
+                "name": "The Middle",
+                "playcount": "1613197653"
+            },
+            {
+                "id": "60wwxj6Dd9NJlirf84wr2c",
+                "name": "Clarity",
+                "playcount": "667485484"
+            },
+            {
+                "id": "6uBhi9gBXWjanegOb2Phh0",
+                "name": "Stay",
+                "playcount": "1299499412"
+            }
+        ],
+        "lastUpdate": 1744988322
+    },
+    {
+        "id": "6TIYQ3jFPwQSRmorSezPxX",
+        "name": "mgk",
+        "followers": 5510347,
+        "worldRank": 0,
+        "monthlyListeners": 14198635,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6659c0c409fee150c1f7c879",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101607515bb2f4956fb7ff9a11f5",
+        "topSongs": [
+            {
+                "id": "3Rfre3qkrhwdZZ7dyznwbN",
+                "name": "Lonely Road (with Jelly Roll)",
+                "playcount": "112678747"
+            },
+            {
+                "id": "7kDUspsoYfLkWnZR7qwHZl",
+                "name": "my ex's best friend (with blackbear)",
+                "playcount": "735998705"
+            },
+            {
+                "id": "25HmjsZYDISFMQmeZoQvkz",
+                "name": "your name forever",
+                "playcount": "6367459"
+            }
+        ],
+        "lastUpdate": 1744988323
+    },
+    {
+        "id": "3e7awlrlDSwF3iM0WBjGMp",
+        "name": "Little Mix",
+        "followers": 12251733,
+        "worldRank": 0,
+        "monthlyListeners": 15030133,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016fdbf5905a210cd8ce60c384c",
+        "topSongs": [
+            {
+                "id": "6rmXhRIemCTPyMYZRDN7Qg",
+                "name": "Black Magic",
+                "playcount": "708578297"
+            },
+            {
+                "id": "6KHL1En9v6iNWjcs44mcmU",
+                "name": "Secret Love Song (feat. Jason Derulo)",
+                "playcount": "729052539"
+            },
+            {
+                "id": "6L2uVVPJA9WcDc7zCZ4DHN",
+                "name": "Love Me Like You",
+                "playcount": "286213349"
+            }
+        ],
+        "lastUpdate": 1744988324
+    },
+    {
+        "id": "2cFrymmkijnjDg9SS92EPM",
+        "name": "blackbear",
+        "followers": 5033187,
+        "worldRank": 0,
+        "monthlyListeners": 13432258,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4f7d049994ac00ed885bfbf2",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e8fa33bd584719a30c9192bb",
+        "topSongs": [
+            {
+                "id": "6y6jbcPG4Yn3Du4moXaenr",
+                "name": "idfc",
+                "playcount": "769117568"
+            },
+            {
+                "id": "6jRq8gaZhMUyy5RclRPcAf",
+                "name": "hot girl bummer",
+                "playcount": "1339094368"
+            },
+            {
+                "id": "7kDUspsoYfLkWnZR7qwHZl",
+                "name": "my ex's best friend (with blackbear)",
+                "playcount": "735998705"
+            }
+        ],
+        "lastUpdate": 1744988325
+    },
+    {
+        "id": "4NHQUGzhtTLFvgF5SZesLK",
+        "name": "Tove Lo",
+        "followers": 3678149,
+        "worldRank": 0,
+        "monthlyListeners": 14721274,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb2360c963315739fc33b01687",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016cc58062eb8d2700f48ad625c",
+        "topSongs": [
+            {
+                "id": "14OxJlLdcHNpgsm4DRwDOB",
+                "name": "Habits (Stay High)",
+                "playcount": "1074272178"
+            },
+            {
+                "id": "2tpfxAXiI52znho4WE3XFA",
+                "name": "Talking Body",
+                "playcount": "676317452"
+            },
+            {
+                "id": "62N2JSA0jHmSH7Va9t7hIf",
+                "name": "Habits (Stay High) - Hippie Sabotage Remix",
+                "playcount": "658763928"
+            }
+        ],
+        "lastUpdate": 1744988326
+    },
+    {
+        "id": "6fOMl44jA4Sp5b9PpYCkzz",
+        "name": "NF",
+        "followers": 10788766,
+        "worldRank": 0,
+        "monthlyListeners": 13369521,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb1cf142a710a2f3d9b7a62da1",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016126a3c57786bb6fc6e3e49cf",
+        "topSongs": [
+            {
+                "id": "52okn5MNA47tk87PeZJLEL",
+                "name": "Let You Down",
+                "playcount": "1587742960"
+            },
+            {
+                "id": "3oLe5ZILASG8vU5dxIMfLY",
+                "name": "The Search",
+                "playcount": "670669578"
+            },
+            {
+                "id": "07FkzikE6FuHIa8Ma7zJGc",
+                "name": "Lie",
+                "playcount": "646017833"
+            }
+        ],
+        "lastUpdate": 1744988327
+    },
+    {
+        "id": "4sTQVOfp9vEMCemLw50sbu",
+        "name": "Galantis",
+        "followers": 3435141,
+        "worldRank": 0,
+        "monthlyListeners": 11376503,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7bda087d6fb48d481efd3344",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016ad15234cbef3dc07c570a4ce",
+        "topSongs": [
+            {
+                "id": "46lFttIf5hnUZMGvjK0Wxo",
+                "name": "Runaway (U & I)",
+                "playcount": "993476144"
+            },
+            {
+                "id": "6M6Tk58pQvABy6ru66dY3d",
+                "name": "No Money",
+                "playcount": "923641447"
+            },
+            {
+                "id": "4WKOsXGqZiG5ihoL5z2Ioa",
+                "name": "Heartbreak Anthem",
+                "playcount": "525380171"
+            }
+        ],
+        "lastUpdate": 1744988328
+    },
+    {
+        "id": "0uq5PttqEjj3IH1bzwcrXF",
+        "name": "Spice Girls",
+        "followers": 4054751,
+        "worldRank": 0,
+        "monthlyListeners": 11599970,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb2e91ffbba84e8e94bafbc6d7",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d15a56f0348c4673ee01c456",
+        "topSongs": [
+            {
+                "id": "1Je1IMUlBXcx1Fz0WE7oPT",
+                "name": "Wannabe",
+                "playcount": "1265832943"
+            },
+            {
+                "id": "3FteycP8CaXS1MhjcXekVT",
+                "name": "Stop",
+                "playcount": "208202761"
+            },
+            {
+                "id": "1yTQ39my3MoNROlFw3RDNy",
+                "name": "Say You'll Be There",
+                "playcount": "167613946"
+            }
+        ],
+        "lastUpdate": 1744988329
+    },
+    {
+        "id": "2NjfBq1NflQcKSeiDooVjY",
+        "name": "Tones And I",
+        "followers": 2973238,
+        "worldRank": 0,
+        "monthlyListeners": 10961475,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb8bbb776368161a8258cbca3a",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e1e42ecdcf9318815ded9c3e",
+        "topSongs": [
+            {
+                "id": "2N8m6CYs74qQO4mjVcXO30",
+                "name": "Dance Monkey",
+                "playcount": "3244452254"
+            },
+            {
+                "id": "2zBDKzqa6sdxeI0fC6OWIC",
+                "name": "Fly Away",
+                "playcount": "460008898"
+            },
+            {
+                "id": "1xV55S7xpK7dFlBhu5ylFJ",
+                "name": "Dance With Me",
+                "playcount": "25727899"
+            }
+        ],
+        "lastUpdate": 1744988330
+    },
+    {
+        "id": "7keGfmQR4X5w0two1xKZ7d",
+        "name": "Kungs",
+        "followers": 971773,
+        "worldRank": 0,
+        "monthlyListeners": 10893950,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb01acc309b4854bdb74ad0a73",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165538ced2df79dd77c9ba133d",
+        "topSongs": [
+            {
+                "id": "1A8j067qyiNwQnZT0bzUpZ",
+                "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+                "playcount": "1249349303"
+            },
+            {
+                "id": "6BjG4NirMgJfC6QAvbfBNG",
+                "name": "Substitution (feat. Julian Perretta)",
+                "playcount": "293145525"
+            },
+            {
+                "id": "6ju5Ntn5pYksvkKxVkjEPK",
+                "name": "Never Going Home",
+                "playcount": "352043332"
+            }
+        ],
+        "lastUpdate": 1744988331
+    },
+    {
+        "id": "6nxWCVXbOlEVRexSbLsTer",
+        "name": "Flume",
+        "followers": 2489410,
+        "worldRank": 0,
+        "monthlyListeners": 11452651,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebdcbf7ddf047dd267e4de8978",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161b5d19913ec1e83353b61b3b",
+        "topSongs": [
+            {
+                "id": "14gdERIqymApVn9vcsbmZ3",
+                "name": "Never Be Like You (feat. Kai)",
+                "playcount": "937163991"
+            },
+            {
+                "id": "3W2ZcrRsInZbjWylOi6KhZ",
+                "name": "You & Me - Flume Remix",
+                "playcount": "705146107"
+            },
+            {
+                "id": "5kJ4BWZ9Y1qFIwwTbMIxYX",
+                "name": "The Difference",
+                "playcount": "213587546"
+            }
+        ],
+        "lastUpdate": 1744988333
+    },
+    {
+        "id": "7gZfnEnfiaHzxARJ2LeXrf",
+        "name": "6ix9ine",
+        "followers": 6905329,
+        "worldRank": 0,
+        "monthlyListeners": 11453344,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe496acc0275b2bfd673c21a9",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163204435aa7c0172c439712ae",
+        "topSongs": [
+            {
+                "id": "5tYCl2bT9bDjMuTyn6OVb0",
+                "name": "MALA (feat. Anuel AA)",
+                "playcount": "572949662"
+            },
+            {
+                "id": "4jCodMLVA5tV5MhPrspTfV",
+                "name": "BEBE (feat. Anuel AA)",
+                "playcount": "635701957"
+            },
+            {
+                "id": "43VXG87ajppI8mO1Mxo8vu",
+                "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
+                "playcount": "814938061"
+            }
+        ],
+        "lastUpdate": 1744988334
+    },
+    {
+        "id": "085pc2PYOi8bGKj0PNjekA",
+        "name": "will.i.am",
+        "followers": 4353087,
+        "worldRank": 0,
+        "monthlyListeners": 12119941,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc9ab8da6f7a3ce02f0b16fd8",
+        "headerImage": "https://i.scdn.co/image/ab676186000010160450de0499d53c03efd6b058",
+        "topSongs": [
+            {
+                "id": "2iJuuzV8P9Yz0VSurttIV5",
+                "name": "Scream & Shout",
+                "playcount": "879666132"
+            },
+            {
+                "id": "4bAFo6r2ODMDoqM5YHV2gM",
+                "name": "I Like To Move It",
+                "playcount": "221711157"
+            },
+            {
+                "id": "01TuObJVd7owWchVRuQbQw",
+                "name": "#thatPOWER",
+                "playcount": "283808517"
+            }
+        ],
+        "lastUpdate": 1744988335
+    },
+    {
+        "id": "41X1TR6hrK8Q2ZCpp2EqCz",
+        "name": "bbno$",
+        "followers": 2143953,
+        "worldRank": 0,
+        "monthlyListeners": 14219000,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebae7196326fa12fe1ea99b7e9",
+        "headerImage": "https://i.scdn.co/image/ab67618600006616f6b872dc9eaec898facfcbb7",
+        "topSongs": [
+            {
+                "id": "6DRZmJa38MaMNthwG3fCBD",
+                "name": "two",
+                "playcount": "74940225"
+            },
+            {
+                "id": "02b35qI48b1RWhsFNKCb1Y",
+                "name": "check",
+                "playcount": "37766732"
+            },
+            {
+                "id": "1golLrmqyxDWedF7YUHCOD",
+                "name": "edamame",
+                "playcount": "551852457"
+            }
+        ],
+        "lastUpdate": 1744988336
+    },
+    {
+        "id": "5sWHDYs0csV6RS48xBl0tH",
+        "name": "Two Feet",
+        "followers": 2119858,
+        "worldRank": 0,
+        "monthlyListeners": 8313009,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebfcaa268ce48afd467463ef76",
+        "headerImage": "https://i.scdn.co/image/ab676186000010164a98f0f113cc3bc7b69970c4",
+        "topSongs": [
+            {
+                "id": "3aauaXWRgwCMoykMbI0Jq1",
+                "name": "I Feel Like I'm Drowning",
+                "playcount": "604559204"
+            },
+            {
+                "id": "6MiVIH3fQlmz44jGx2DXn4",
+                "name": "Love Is a Bitch",
+                "playcount": "429726899"
+            },
+            {
+                "id": "4NZrZgrRoR4GwR7flWOXRI",
+                "name": "Go Fuck Yourself",
+                "playcount": "698276901"
+            }
+        ],
+        "lastUpdate": 1744988337
+    },
+    {
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "followers": 70691650,
+        "worldRank": 1,
+        "monthlyListeners": 133052612,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016095443acef30777dec5fe815",
+        "topSongs": [
+            {
+                "id": "7so0lgd0zP2Sbgs2d7a1SZ",
+                "name": "Die With A Smile",
+                "playcount": "2304409793"
+            },
+            {
+                "id": "4wJ5Qq0jBN4ajy7ouZIV1c",
+                "name": "APT.",
+                "playcount": "1514375781"
+            },
+            {
+                "id": "7BqBn9nzAq8spo5e7cZ0dJ",
+                "name": "Just the Way You Are",
+                "playcount": "2697854822"
+            }
+        ],
+        "lastUpdate": 1744988165
+    },
+    {
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "followers": 103461592,
+        "worldRank": 2,
+        "monthlyListeners": 117797649,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101606f7730314d8eff6663d6918",
+        "topSongs": [
+            {
+                "id": "0FIDCNYYjNvPVimz5icugS",
+                "name": "Timeless (feat Playboi Carti)",
+                "playcount": "774931029"
+            },
+            {
+                "id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+                "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+                "playcount": "1781717602"
+            },
+            {
+                "id": "68qeaZhtMZ6abrJCYt6nQn",
+                "name": "RATHER LIE (with The Weeknd)",
+                "playcount": "95831533"
+            }
+        ],
+        "lastUpdate": 1744988164
+    },
+    {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "followers": 36851944,
+        "worldRank": 3,
+        "monthlyListeners": 112866733,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163697206eb86fc80f03da5384",
+        "topSongs": [
+            {
+                "id": "7so0lgd0zP2Sbgs2d7a1SZ",
+                "name": "Die With A Smile",
+                "playcount": "2304409793"
+            },
+            {
+                "id": "2LHNTC9QZxsL3nWpt8iaSR",
+                "name": "Abracadabra",
+                "playcount": "287138219"
+            },
+            {
+                "id": "5R8dQOPq8haW94K7mgERlO",
+                "name": "Poker Face",
+                "playcount": "1638579413"
+            }
+        ],
+        "lastUpdate": 1744988167
+    },
+    {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "followers": 110489276,
+        "worldRank": 4,
+        "monthlyListeners": 100049133,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+        "headerImage": "https://i.scdn.co/image/ab676186000010162d84c1b04696c09702a15b85",
+        "topSongs": [
+            {
+                "id": "6dOtVTDdiauQNBQEDOtlAB",
+                "name": "BIRDS OF A FEATHER",
+                "playcount": "2401734321"
+            },
+            {
+                "id": "3QaPy1KgI7nu9FJEQUgn6h",
+                "name": "WILDFLOWER",
+                "playcount": "1097595220"
+            },
+            {
+                "id": "7BRD7x5pt8Lqa1eGYC4dzj",
+                "name": "CHIHIRO",
+                "playcount": "779240331"
+            }
+        ],
+        "lastUpdate": 1744988166
+    },
+    {
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "followers": 40367065,
+        "worldRank": 5,
+        "monthlyListeners": 95312724,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016517fa2f35eb4ae27dcd3e2bc",
+        "topSongs": [
+            {
+                "id": "2CGNAOSuO1MEFCbBRgUzjd",
+                "name": "luther (with sza)",
+                "playcount": "795049641"
+            },
+            {
+                "id": "6AI3ezQ4o3HUoP6Dhudph3",
+                "name": "Not Like Us",
+                "playcount": "1408149638"
+            },
+            {
+                "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+                "name": "All The Stars (with SZA)",
+                "playcount": "2257959640"
+            }
+        ],
+        "lastUpdate": 1744988182
+    },
+    {
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "followers": 57874366,
+        "worldRank": 6,
+        "monthlyListeners": 92101450,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb",
+        "headerImage": "https://i.scdn.co/image/ab676186000010168653fa3322f48b6f4f966c52",
+        "topSongs": [
+            {
+                "id": "3AJwUDP919kvQ9QcozQPxg",
+                "name": "Yellow",
+                "playcount": "2961872311"
+            },
+            {
+                "id": "1mea3bSkSGXuIRvnydlB5b",
+                "name": "Viva La Vida",
+                "playcount": "2698956208"
+            },
+            {
+                "id": "6RUKPb4LETWmmr3iAEQktW",
+                "name": "Something Just Like This",
+                "playcount": "3110262809"
+            }
+        ],
+        "lastUpdate": 1744988169
+    },
+    {
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "followers": 66586360,
+        "worldRank": 7,
+        "monthlyListeners": 87860608,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161f1b12626cb5b267828f00a2",
+        "topSongs": [
+            {
+                "id": "5EcG8eMMlwkHRVa4aTR1qd",
+                "name": "Breakin' Dishes",
+                "playcount": "413044569"
+            },
+            {
+                "id": "6qn9YLKt13AGvpq9jfO8py",
+                "name": "We Found Love",
+                "playcount": "2027909445"
+            },
+            {
+                "id": "2ENexcMEMsYk0rVJigVD3i",
+                "name": "Only Girl (In The World)",
+                "playcount": "1395112255"
+            }
+        ],
+        "lastUpdate": 1744988170
+    },
+    {
+        "id": "7tYKF4w9nC0nq9CsPZTHyP",
+        "name": "SZA",
+        "followers": 29066683,
+        "worldRank": 8,
+        "monthlyListeners": 83805434,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebfd0a9fb6c252a3ba44079acf",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101680a1a165695b901e37f445a3",
+        "topSongs": [
+            {
+                "id": "2CGNAOSuO1MEFCbBRgUzjd",
+                "name": "luther (with sza)",
+                "playcount": "795049641"
+            },
+            {
+                "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+                "name": "All The Stars (with SZA)",
+                "playcount": "2257959640"
+            },
+            {
+                "id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+                "name": "Snooze",
+                "playcount": "1502353545"
+            }
+        ],
+        "lastUpdate": 1744988181
+    },
+    {
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "followers": 120052684,
+        "worldRank": 9,
+        "monthlyListeners": 82907010,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb399444ed4eace08b549d1161",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016f1421dfc98658ca08df5b7a0",
+        "topSongs": [
+            {
+                "id": "7qiZfU4dY1lWllzX7mPBI3",
+                "name": "Shape of You",
+                "playcount": "4315612700"
+            },
+            {
+                "id": "0tgVpDi06FyKpA1z0VMD4v",
+                "name": "Perfect",
+                "playcount": "3391137763"
+            },
+            {
+                "id": "6fxVffaTuwjgEk5h9QyRjy",
+                "name": "Photograph",
+                "playcount": "2886854376"
+            }
+        ],
+        "lastUpdate": 1744988178
+    },
+    {
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "followers": 94121143,
+        "worldRank": 10,
+        "monthlyListeners": 82420984,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+        "headerImage": "https://i.scdn.co/image/ab676186000010162b440403a6dd8816bd59447e",
+        "topSongs": [
+            {
+                "id": "3sK8wGT43QFpWrvNQsrQya",
+                "name": "DtMF",
+                "playcount": "653825634"
+            },
+            {
+                "id": "2lTm559tuIvatlT1u0JYG2",
+                "name": "BAILE INoLVIDABLE",
+                "playcount": "491679013"
+            },
+            {
+                "id": "5TFD2bmFKGhoCRbX61nXY5",
+                "name": "NUEVAYoL",
+                "playcount": "402892870"
+            }
+        ],
+        "lastUpdate": 1744988183
+    },
+    {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "followers": 104890711,
+        "worldRank": 11,
+        "monthlyListeners": 82285754,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0",
+        "headerImage": "https://i.scdn.co/image/ab676186000010162f369117de04881a9600b7de",
+        "topSongs": [
+            {
+                "id": "51ZQ1vr10ffzbwIjDCwqm4",
+                "name": "we can't be friends (wait for your love)",
+                "playcount": "1352424927"
+            },
+            {
+                "id": "1edcyazKIdKrIuz9cWpXU6",
+                "name": "twilight zone",
+                "playcount": "62892544"
+            },
+            {
+                "id": "3fxDcaiomBMomHdMeCSsZ2",
+                "name": "dandelion",
+                "playcount": "37224686"
+            }
+        ],
+        "lastUpdate": 1744988173
+    },
+    {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "followers": 135932753,
+        "worldRank": 12,
+        "monthlyListeners": 82018345,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016632d765bdc111e40acbfab19",
+        "topSongs": [
+            {
+                "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+                "name": "Cruel Summer",
+                "playcount": "2851936695"
+            },
+            {
+                "id": "2OzhQlSqBEmt7hmkYxfT6m",
+                "name": "Fortnight (feat. Post Malone)",
+                "playcount": "896965830"
+            },
+            {
+                "id": "4R2kfaDFhslZEMJqAFNpdd",
+                "name": "cardigan",
+                "playcount": "1617536147"
+            }
+        ],
+        "lastUpdate": 1744988168
+    },
+    {
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "followers": 81900258,
+        "worldRank": 13,
+        "monthlyListeners": 79153447,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36",
+        "headerImage": "https://i.scdn.co/image/ab676186000010160fbbfc8e79446af2eacfc52e",
+        "topSongs": [
+            {
+                "id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+                "name": "Beauty And A Beat",
+                "playcount": "1119339706"
+            },
+            {
+                "id": "50kpGaPAhYJ3sGmk6vplg0",
+                "name": "Love Yourself",
+                "playcount": "2739356349"
+            },
+            {
+                "id": "09CtPGIpYB4BrO8qb1RGsF",
+                "name": "Sorry",
+                "playcount": "2401795098"
+            }
+        ],
+        "lastUpdate": 1744988172
+    },
+    {
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "followers": 97863541,
+        "worldRank": 14,
+        "monthlyListeners": 79080795,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a76cf626917521176d2f7723",
+        "topSongs": [
+            {
+                "id": "2u9S9JJ6hTZS3Vf22HOZKg",
+                "name": "NOKIA",
+                "playcount": "168931556"
+            },
+            {
+                "id": "0NUqi0ps17YpLUC3kgsZq0",
+                "name": "DIE TRYING",
+                "playcount": "95115905"
+            },
+            {
+                "id": "1zi7xx7UVEFkmKfv06H8x0",
+                "name": "One Dance",
+                "playcount": "3597876114"
+            }
+        ],
+        "lastUpdate": 1744988176
+    },
+    {
+        "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+        "name": "David Guetta",
+        "followers": 27053160,
+        "worldRank": 15,
+        "monthlyListeners": 74701373,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163d3652727951bd9d5a71c0b8",
+        "topSongs": [
+            {
+                "id": "4uUG5RXrOk84mYEfFvj3cK",
+                "name": "I'm Good (Blue)",
+                "playcount": "2053729923"
+            },
+            {
+                "id": "0lHAMNU8RGiIObScrsRgmP",
+                "name": "Titanium (feat. Sia)",
+                "playcount": "1897785498"
+            },
+            {
+                "id": "331l3xABO0HMr1Kkyh2LZq",
+                "name": "I Don't Wanna Wait",
+                "playcount": "546216241"
+            }
+        ],
+        "lastUpdate": 1744988177
+    },
+    {
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "followers": 45853239,
+        "worldRank": 16,
+        "monthlyListeners": 69287277,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
+        "headerImage": "https://i.scdn.co/image/ab676186000010168a79e4ec8e5f39247c4459ed",
+        "topSongs": [
+            {
+                "id": "3gJAFFELdZyIM8tiwLAikg",
+                "name": "Handlebars (feat. Dua Lipa)",
+                "playcount": "69638887"
+            },
+            {
+                "id": "7rglLriMNBPAyuJOMGwi39",
+                "name": "Cold Heart - PNAU Remix",
+                "playcount": "2344868577"
+            },
+            {
+                "id": "5b5cPscqVEMChvDqscVw26",
+                "name": "Training Season",
+                "playcount": "569464705"
+            }
+        ],
+        "lastUpdate": 1744988185
+    },
+    {
+        "id": "7dGJo4pcD2V6oG8kP0tJRR",
+        "name": "Eminem",
+        "followers": 99718517,
+        "worldRank": 17,
+        "monthlyListeners": 69062462,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+        "headerImage": "https://i.scdn.co/image/ab676186000010160c8f491d3027f3313929333e",
+        "topSongs": [
+            {
+                "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+                "name": "Without Me",
+                "playcount": "2594893471"
+            },
+            {
+                "id": "561jH07mF1jHuk7KlaeF0s",
+                "name": "Mockingbird",
+                "playcount": "2071332617"
+            },
+            {
+                "id": "5Z01UMMf7V1o0MzF86s6WJ",
+                "name": "Lose Yourself",
+                "playcount": "2527723768"
+            }
+        ],
+        "lastUpdate": 1744988175
+    },
+    {
+        "id": "7CajNmpbOovFoOoasH2HaY",
+        "name": "Calvin Harris",
+        "followers": 23144993,
+        "worldRank": 18,
+        "monthlyListeners": 67523932,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb014a3c1730d960c66396ed63",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016897beebcacd562a8208238af",
+        "topSongs": [
+            {
+                "id": "6qn9YLKt13AGvpq9jfO8py",
+                "name": "We Found Love",
+                "playcount": "2027909445"
+            },
+            {
+                "id": "7MmG8p0F9N3C4AXdK6o6Eb",
+                "name": "Outside (feat. Ellie Goulding)",
+                "playcount": "1421115745"
+            },
+            {
+                "id": "6YUTL4dYpB9xZO5qExPf05",
+                "name": "Summer",
+                "playcount": "1765762357"
+            }
+        ],
+        "lastUpdate": 1744988184
+    },
+    {
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "followers": 38173720,
+        "worldRank": 19,
+        "monthlyListeners": 67311811,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e7defcb900c8125c31a54520",
+        "topSongs": [
+            {
+                "id": "42VsgItocQwOQC3XWZ8JNA",
+                "name": "FE!N (feat. Playboi Carti)",
+                "playcount": "1261804587"
+            },
+            {
+                "id": "6gBFPUFcJLzWGx4lenP6h2",
+                "name": "goosebumps",
+                "playcount": "2801713124"
+            },
+            {
+                "id": "6koKhrBBcExADvWuOgceNZ",
+                "name": "Open Arms (feat. Travis Scott)",
+                "playcount": "738283094"
+            }
+        ],
+        "lastUpdate": 1744988179
+    },
+    {
+        "id": "5WUlDfRSoLAfcVSX1WnrxN",
+        "name": "Sia",
+        "followers": 29726920,
+        "worldRank": 20,
+        "monthlyListeners": 66698914,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb64db06dfda27bb045bc1c2f5",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161e2ccbe006437bbd9e302934",
+        "topSongs": [
+            {
+                "id": "0lHAMNU8RGiIObScrsRgmP",
+                "name": "Titanium (feat. Sia)",
+                "playcount": "1897785498"
+            },
+            {
+                "id": "1yvMUkIOTeUNtNWlWRgANS",
+                "name": "Unstoppable",
+                "playcount": "1610537064"
+            },
+            {
+                "id": "2s1sdSqGcKxpPr5lCl7jAV",
+                "name": "Chandelier",
+                "playcount": "1968489549"
+            }
+        ],
+        "lastUpdate": 1744988196
+    },
+    {
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "followers": 21501012,
+        "worldRank": 21,
+        "monthlyListeners": 66292099,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e940a82ec138eda912507fa1",
+        "topSongs": [
+            {
+                "id": "2HRqTpkrJO5ggZyyK6NPWz",
+                "name": "Espresso",
+                "playcount": "2145046147"
+            },
+            {
+                "id": "5G2f63n7IPVPPjfNIGih7Q",
+                "name": "Taste",
+                "playcount": "969179164"
+            },
+            {
+                "id": "2tHwzyyOLoWSFqYNjeVMzj",
+                "name": "Please Please Please",
+                "playcount": "1374838232"
+            }
+        ],
+        "lastUpdate": 1744988171
+    },
+    {
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "followers": 46855944,
+        "worldRank": 22,
+        "monthlyListeners": 65603451,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016f2938f23c22c76714798e649",
+        "topSongs": [
+            {
+                "id": "5IZXB5IKAD2qlvTPJYDCFB",
+                "name": "I Had Some Help (Feat. Morgan Wallen)",
+                "playcount": "1036246820"
+            },
+            {
+                "id": "0RiRZpuVRbi7oqRdSMwhQY",
+                "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+                "playcount": "3779133337"
+            },
+            {
+                "id": "21jGcNKet2qwijlDFuPiPb",
+                "name": "Circles",
+                "playcount": "2792929430"
+            }
+        ],
+        "lastUpdate": 1744988174
+    },
+    {
+        "id": "0EmeFodog0BfCgMzAIvKQp",
+        "name": "Shakira",
+        "followers": 37644250,
+        "worldRank": 24,
+        "monthlyListeners": 64357657,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb2528c726e5ddb90a7197e527",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101638dd4f6a249c034ab430501f",
+        "topSongs": [
+            {
+                "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
+                "name": "Hips Don't Lie (feat. Wyclef Jean)",
+                "playcount": "2008335752"
+            },
+            {
+                "id": "3OJDtCdYs8QJnui708tEU3",
+                "name": "Soltera",
+                "playcount": "240916513"
+            },
+            {
+                "id": "0DWdj2oZMBFSzRsi2Cvfzf",
+                "name": "TQG",
+                "playcount": "1259569510"
+            }
+        ],
+        "lastUpdate": 1744988186
+    },
+    {
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "followers": 44643326,
+        "worldRank": 25,
+        "monthlyListeners": 64226376,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161dcf139fb083d1ab72eb9467",
+        "topSongs": [
+            {
+                "id": "4P0osvTXoSYZZC2n8IFH3c",
+                "name": "Payphone",
+                "playcount": "2177868393"
+            },
+            {
+                "id": "7LcfRTgAVTs5pQGEQgUEzN",
+                "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+                "playcount": "1761564359"
+            },
+            {
+                "id": "4gbVRS8gloEluzf0GzDOFc",
+                "name": "Maps",
+                "playcount": "2018673983"
+            }
+        ],
+        "lastUpdate": 1744988187
+    },
+    {
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "followers": 29770751,
+        "worldRank": 26,
+        "monthlyListeners": 62839577,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+        "topSongs": [
+            {
+                "id": "5TRPicyLGbAF2LGBFbHGvO",
+                "name": "Flashing Lights",
+                "playcount": "1347703173"
+            },
+            {
+                "id": "4EWCNWgDS8707fNSZ1oaA5",
+                "name": "Heartless",
+                "playcount": "1639370064"
+            },
+            {
+                "id": "2McT2fkH0VDqPsbiB9HWPq",
+                "name": "CARNIVAL",
+                "playcount": "734594452"
+            }
+        ],
+        "lastUpdate": 1744988180
+    },
+    {
+        "id": "0TnOYISbd1XYRBk9myaseg",
+        "name": "Pitbull",
+        "followers": 11504516,
+        "worldRank": 27,
+        "monthlyListeners": 62795052,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4051627b19277613e0e62a34",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016bf0f96cc1fdaedf2b1db4506",
+        "topSongs": [
+            {
+                "id": "4QNpBfC0zvjKqPJcyqBy9W",
+                "name": "Give Me Everything (feat. Nayer)",
+                "playcount": "1569516781"
+            },
+            {
+                "id": "3cHyrEgdyYRjgJKSOiOtcS",
+                "name": "Timber",
+                "playcount": "1786857501"
+            },
+            {
+                "id": "2bJvI42r8EF3wxjOuDav4r",
+                "name": "Time of Our Lives",
+                "playcount": "1556379192"
+            }
+        ],
+        "lastUpdate": 1744988211
+    },
+    {
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "followers": 36790976,
+        "worldRank": 28,
+        "monthlyListeners": 60841659,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb0988562f78810e47a6e3325f",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101698f0f78bac1732e83b7e67b0",
+        "topSongs": [
+            {
+                "id": "3avYqdwHKEq8beXbeWCKqJ",
+                "name": "Last Friday Night (T.G.I.F.)",
+                "playcount": "1443916956"
+            },
+            {
+                "id": "1y4eb6hmAvsqlDOl3fx9kk",
+                "name": "Hot N Cold",
+                "playcount": "1112894521"
+            },
+            {
+                "id": "6KOEK6SeCEZOQkLj5M1PxH",
+                "name": "California Gurls",
+                "playcount": "1034936303"
+            }
+        ],
+        "lastUpdate": 1744988191
+    },
+    {
+        "id": "00FQb4jTyendYWaN8pK0wa",
+        "name": "Lana Del Rey",
+        "followers": 46643129,
+        "worldRank": 29,
+        "monthlyListeners": 59432242,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016adc556aaf75e626cb4a1a1be",
+        "topSongs": [
+            {
+                "id": "1Ist6PR2BZR3n2z2Y5R6S1",
+                "name": "Summertime Sadness",
+                "playcount": "1838657604"
+            },
+            {
+                "id": "2nMeu6UenVvwUktBCpLMK9",
+                "name": "Young And Beautiful",
+                "playcount": "1603435046"
+            },
+            {
+                "id": "2mdEsXPu8ZmkHRRtAdC09e",
+                "name": "Cinnamon Girl",
+                "playcount": "784493760"
+            }
+        ],
+        "lastUpdate": 1744988188
+    },
+    {
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "followers": 21143221,
+        "worldRank": 31,
+        "monthlyListeners": 58689625,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b89b62e73c5f8f5601899d4a",
+        "topSongs": [
+            {
+                "id": "2tudvzsrR56uom6smgOcSf",
+                "name": "Like That",
+                "playcount": "753062535"
+            },
+            {
+                "id": "28drn6tQo95MRvO0jQEo5C",
+                "name": "Type Shit",
+                "playcount": "539322727"
+            },
+            {
+                "id": "7EiZI6JVHllARrX9PUvAdX",
+                "name": "Low Life (feat. The Weeknd)",
+                "playcount": "1093445336"
+            }
+        ],
+        "lastUpdate": 1744988195
+    },
+    {
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "followers": 25846376,
+        "worldRank": 32,
+        "monthlyListeners": 57526190,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016ae73d3ad5a3f447f17468f38",
+        "topSongs": [
+            {
+                "id": "7DSAEUvxU8FajXtRloy8M0",
+                "name": "Flowers",
+                "playcount": "2503602767"
+            },
+            {
+                "id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+                "name": "Party In The U.S.A.",
+                "playcount": "1849055675"
+            },
+            {
+                "id": "5SxahezRlC0saXbCALfB7c",
+                "name": "End of the World",
+                "playcount": "20644916"
+            }
+        ],
+        "lastUpdate": 1744988197
+    },
+    {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "followers": 63680523,
+        "worldRank": 33,
+        "monthlyListeners": 57202950,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016f6e93dd30ed67c0a07c234ad",
+        "topSongs": [
+            {
+                "id": "46IZ0fSY2mpAiktS3KOqds",
+                "name": "Easy On Me",
+                "playcount": "2116565175"
+            },
+            {
+                "id": "73CMRj62VK8nUS4ezD2wvi",
+                "name": "Set Fire to the Rain",
+                "playcount": "1957619518"
+            },
+            {
+                "id": "1zwMYTA5nlNjZxYrvBB2pV",
+                "name": "Someone Like You",
+                "playcount": "2264489326"
+            }
+        ],
+        "lastUpdate": 1744988189
+    },
+    {
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "followers": 52365602,
+        "worldRank": 34,
+        "monthlyListeners": 56832918,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165c04075267ec0d3a0761b6b6",
+        "topSongs": [
+            {
+                "id": "1DpC4L3JjsGRW7y6eTHaMj",
+                "name": "Ojos Tristes (with The Marías)",
+                "playcount": "49035197"
+            },
+            {
+                "id": "1OdvKyTexzm8ZEmdCxhGsX",
+                "name": "Call Me When You Break Up (with Gracie Abrams)",
+                "playcount": "66727234"
+            },
+            {
+                "id": "7sFMOSnRBa6td4lZa1oiTI",
+                "name": "How Does It Feel To Be Forgotten",
+                "playcount": "32673560"
+            }
+        ],
+        "lastUpdate": 1744988233
+    },
+    {
+        "id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "name": "Doja Cat",
+        "followers": 33093267,
+        "worldRank": 35,
+        "monthlyListeners": 56661588,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101628b8070e6ae1be7be160451c",
+        "topSongs": [
+            {
+                "id": "7KNmIjcmGJIBrhP2s5Vioe",
+                "name": "Born Again (feat. Doja Cat & RAYE)",
+                "playcount": "150228385"
+            },
+            {
+                "id": "3DarAbFujv6eYNliUTyqtz",
+                "name": "Kiss Me More (feat. SZA)",
+                "playcount": "2085505190"
+            },
+            {
+                "id": "60ynsPSSKe6O3sfwRnIBRf",
+                "name": "Streets",
+                "playcount": "1283956737"
+            }
+        ],
+        "lastUpdate": 1744988206
+    },
+    {
+        "id": "6vWDO969PvNqNYHIOW5v0m",
+        "name": "Beyoncé",
+        "followers": 40130437,
+        "worldRank": 36,
+        "monthlyListeners": 56656624,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165662906a93c29519950f402f",
+        "topSongs": [
+            {
+                "id": "5IVuqXILoxVWvWEPm82Jxr",
+                "name": "Crazy In Love (feat. JAY-Z)",
+                "playcount": "1511205925"
+            },
+            {
+                "id": "3ERa3mEeOnrh2Mc47qM6T1",
+                "name": "Halo",
+                "playcount": "1744056240"
+            },
+            {
+                "id": "7wLShogStyDeZvL0a6daN5",
+                "name": "TEXAS HOLD 'EM",
+                "playcount": "651377230"
+            }
+        ],
+        "lastUpdate": 1744988198
+    },
+    {
+        "id": "7bXgB6jMjp9ATFy66eO08Z",
+        "name": "Chris Brown",
+        "followers": 26095558,
+        "worldRank": 37,
+        "monthlyListeners": 55695698,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101618de4dbd52e22e47f13f527a",
+        "topSongs": [
+            {
+                "id": "5IgjP7X4th6nMNDh4akUHb",
+                "name": "Under The Influence",
+                "playcount": "1564107493"
+            },
+            {
+                "id": "62zFEHfAYl5kdHYOivj4BC",
+                "name": "International Love (feat. Chris Brown)",
+                "playcount": "667278803"
+            },
+            {
+                "id": "3NZJlJemX3mzjf56MqC5ML",
+                "name": "Forever",
+                "playcount": "627797164"
+            }
+        ],
+        "lastUpdate": 1744988207
+    },
+    {
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "name": "Imagine Dragons",
+        "followers": 56998629,
+        "worldRank": 38,
+        "monthlyListeners": 55043896,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016f5f1b3f6d7aceb787c92b157",
+        "topSongs": [
+            {
+                "id": "0pqnGHJpmpxLKifKRmU6WP",
+                "name": "Believer",
+                "playcount": "3395967034"
+            },
+            {
+                "id": "3LlAyCYU26dvFZBDUIMb7a",
+                "name": "Demons",
+                "playcount": "2645002030"
+            },
+            {
+                "id": "1zB4vmk8tFRmM9UULNzbLB",
+                "name": "Thunder",
+                "playcount": "2686194093"
+            }
+        ],
+        "lastUpdate": 1744988190
+    },
+    {
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "followers": 29827098,
+        "worldRank": 39,
+        "monthlyListeners": 54293171,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016ef22c74e18c2002d4c1d6402",
+        "topSongs": [
+            {
+                "id": "5XeFesFbtLpXzIVDNQP22n",
+                "name": "I Wanna Be Yours",
+                "playcount": "2970014050"
+            },
+            {
+                "id": "58ge6dfP91o9oXMzq3XkIS",
+                "name": "505",
+                "playcount": "2170184093"
+            },
+            {
+                "id": "5TTGoX70AFrTvuEtqHK37S",
+                "name": "No. 1 Party Anthem",
+                "playcount": "531411402"
+            }
+        ],
+        "lastUpdate": 1744988200
+    },
+    {
+        "id": "64KEffDW9EtZ1y2vBYgq8T",
+        "name": "Marshmello",
+        "followers": 34187619,
+        "worldRank": 41,
+        "monthlyListeners": 51714172,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb53ca421f91678c26b4f15512",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101639f94196c6f3f45c3f2221ad",
+        "topSongs": [
+            {
+                "id": "7BqHUALzNBTanL6OvsqmC1",
+                "name": "Happier",
+                "playcount": "2380389354"
+            },
+            {
+                "id": "4pkb8SbRGeHAvdb87v9rpf",
+                "name": "Miles On It",
+                "playcount": "268548856"
+            },
+            {
+                "id": "5KbBVSj6AJZ5662fO8EYFh",
+                "name": "El Merengue",
+                "playcount": "755626015"
+            }
+        ],
+        "lastUpdate": 1744988194
+    },
+    {
+        "id": "4VMYDCV2IEDYJArk749S6m",
+        "name": "Daddy Yankee",
+        "followers": 36936324,
+        "worldRank": 42,
+        "monthlyListeners": 51689158,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb99a6ccc4aae5ae5404c9eb30",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d4ac5231835b71396c92f51c",
+        "topSongs": [
+            {
+                "id": "5YoITs1m0q8UOQ4AW7N5ga",
+                "name": "Gasolina",
+                "playcount": "1130933346"
+            },
+            {
+                "id": "6habFhsOp2NvshLv26DqMb",
+                "name": "Despacito",
+                "playcount": "1908386617"
+            },
+            {
+                "id": "69vlMrzHwATKzupwNcUPyK",
+                "name": "La Santa",
+                "playcount": "1061113567"
+            }
+        ],
+        "lastUpdate": 1744988202
+    },
+    {
+        "id": "5Pwc4xIPtQLFEnJriah9YJ",
+        "name": "OneRepublic",
+        "followers": 18167296,
+        "worldRank": 46,
+        "monthlyListeners": 50402778,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb57138b98e7ddd5a86ee97a9b",
+        "headerImage": "https://i.scdn.co/image/ab676186000010164ab56db0de8efdd3498f6476",
+        "topSongs": [
+            {
+                "id": "2tpWsVSb9UEmDRxAl1zhX1",
+                "name": "Counting Stars",
+                "playcount": "2917146705"
+            },
+            {
+                "id": "0oF9jpn0n8afMpbHKgRd6J",
+                "name": "I Ain't Worried",
+                "playcount": "1951507146"
+            },
+            {
+                "id": "331l3xABO0HMr1Kkyh2LZq",
+                "name": "I Don't Wanna Wait",
+                "playcount": "546216241"
+            }
+        ],
+        "lastUpdate": 1744988201
+    },
+    {
+        "id": "2wY79sveU1sp5g7SokKOiI",
+        "name": "Sam Smith",
+        "followers": 25672737,
+        "worldRank": 48,
+        "monthlyListeners": 49602711,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc4c97d96c08e4bb7c5f574aa",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b6508bffa72c2d809e423c07",
+        "topSongs": [
+            {
+                "id": "36pLU2ywVeBKEF0rrKtmCB",
+                "name": "La La La",
+                "playcount": "859333475"
+            },
+            {
+                "id": "7795WJLVKJoAyVoOtCWqXN",
+                "name": "I'm Not The Only One",
+                "playcount": "2150696261"
+            },
+            {
+                "id": "51ODNNDZm21HU7wI7cccRr",
+                "name": "Latch",
+                "playcount": "1226732025"
+            }
+        ],
+        "lastUpdate": 1744988203
+    },
+    {
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "followers": 56149615,
+        "worldRank": 49,
+        "monthlyListeners": 49569829,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4b0754aefc9db490e02205ec",
+        "headerImage": "https://i.scdn.co/image/ab676186000010164ca1e154c7cf87645ef59a38",
+        "topSongs": [
+            {
+                "id": "6WatFBLVB0x077xWeoVc2k",
+                "name": "Si Antes Te Hubiera Conocido",
+                "playcount": "1132802428"
+            },
+            {
+                "id": "3mg9jYNC1NihbthlglzrWP",
+                "name": "+57",
+                "playcount": "183156794"
+            },
+            {
+                "id": "3HqcNJdZ2seoGxhn0wVNDK",
+                "name": "PROVENZA",
+                "playcount": "1446448605"
+            }
+        ],
+        "lastUpdate": 1744988192
+    },
+    {
+        "id": "6LuN9FCkKOj5PcnpouEgny",
+        "name": "Khalid",
+        "followers": 16685174,
+        "worldRank": 52,
+        "monthlyListeners": 49195969,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb24ff450c42d4e36fb34a7631",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016edd0d1569dbf219eecb503af",
+        "topSongs": [
+            {
+                "id": "0u2P5u6lvoDfwTYjAADbn4",
+                "name": "lovely (with Khalid)",
+                "playcount": "3273150513"
+            },
+            {
+                "id": "7FGq80cy8juXBCD2nrqdWU",
+                "name": "Eastside (with Halsey & Khalid)",
+                "playcount": "1922632098"
+            },
+            {
+                "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+                "name": "Young Dumb & Broke",
+                "playcount": "1714240640"
+            }
+        ],
+        "lastUpdate": 1744988199
+    },
+    {
+        "id": "1mcTU81TzQhprhouKaTkpq",
+        "name": "Rauw Alejandro",
+        "followers": 27963866,
+        "worldRank": 53,
+        "monthlyListeners": 48707524,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb5b50fae60980240b4ebd7808",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101612a71e5629dcc972fcb6bddf",
+        "topSongs": [
+            {
+                "id": "0l0vcZMU7AOeQmUIREoI2U",
+                "name": "Qué Pasaría...",
+                "playcount": "404379290"
+            },
+            {
+                "id": "1YYfyJ2yCvGFCxwjsIqEK9",
+                "name": "Khé?",
+                "playcount": "345308056"
+            },
+            {
+                "id": "6a9Z1jUms915w4O7N1PxjY",
+                "name": "Santa",
+                "playcount": "661295087"
+            }
+        ],
+        "lastUpdate": 1744988212
+    },
+    {
+        "id": "6XyY86QOPPrYVGvF9ch6wz",
+        "name": "Linkin Park",
+        "followers": 29630594,
+        "worldRank": 54,
+        "monthlyListeners": 48403883,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eba49c7eec5131a21a0bfb737b",
+        "headerImage": "https://i.scdn.co/image/ab676186000010160fbd1f62d295cfade146bda9",
+        "topSongs": [
+            {
+                "id": "2nLtzopw4rPReszdYBJU6h",
+                "name": "Numb",
+                "playcount": "2200826018"
+            },
+            {
+                "id": "60a0Rd6pjrkxjPbaKzXjfq",
+                "name": "In the End",
+                "playcount": "2520675797"
+            },
+            {
+                "id": "1EDPVGbyPKJPeGqATwXZvN",
+                "name": "The Emptiness Machine",
+                "playcount": "515637512"
+            }
+        ],
+        "lastUpdate": 1744988193
+    },
+    {
+        "id": "26VFTg2z8YR0cCuwLzESi2",
+        "name": "Halsey",
+        "followers": 22073588,
+        "worldRank": 55,
+        "monthlyListeners": 48395458,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7f17140567e7df5799d5c3a9",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b48921089edf6246e98c7e9d",
+        "topSongs": [
+            {
+                "id": "7BKLCZ1jbUBVqRi2FVlTVw",
+                "name": "Closer",
+                "playcount": "3228589014"
+            },
+            {
+                "id": "3OzCF9i6Ey7EkkAYJztmKp",
+                "name": "Bad At Love",
+                "playcount": "753484667"
+            },
+            {
+                "id": "6FZDfxM3a3UCqtzo5pxSLZ",
+                "name": "Without Me",
+                "playcount": "2235638661"
+            }
+        ],
+        "lastUpdate": 1744988220
+    },
+    {
+        "id": "69GGBxA162lTqCwzJG5jLp",
+        "name": "The Chainsmokers",
+        "followers": 20990273,
+        "worldRank": 57,
+        "monthlyListeners": 47933285,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb44434ab91c37f5407f8e83b6",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e6657e0bff835f4f61f5b2a2",
+        "topSongs": [
+            {
+                "id": "6RUKPb4LETWmmr3iAEQktW",
+                "name": "Something Just Like This",
+                "playcount": "3110262809"
+            },
+            {
+                "id": "7BKLCZ1jbUBVqRi2FVlTVw",
+                "name": "Closer",
+                "playcount": "3228589014"
+            },
+            {
+                "id": "1i1fxkWeaMmKEB4T7zqbzK",
+                "name": "Don't Let Me Down",
+                "playcount": "2091826472"
+            }
+        ],
+        "lastUpdate": 1744988210
+    },
+    {
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen",
+        "followers": 53617715,
+        "worldRank": 58,
+        "monthlyListeners": 47559382,
+        "avatarImage": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+        "headerImage": "https://i.scdn.co/image/ab676186000010168f8fc0fe8253d98fc63fa574",
+        "topSongs": [
+            {
+                "id": "7tFiyTwD0nx5a1eklYtX2J",
+                "name": "Bohemian Rhapsody - Remastered 2011",
+                "playcount": "2763147708"
+            },
+            {
+                "id": "7hQJA50XrCWABAu5v6QZ4i",
+                "name": "Don't Stop Me Now - Remastered 2011",
+                "playcount": "2292109997"
+            },
+            {
+                "id": "11IzgLRXV7Cgek3tEgGgjw",
+                "name": "Under Pressure - Remastered 2011",
+                "playcount": "1856567163"
+            }
+        ],
+        "lastUpdate": 1744988204
+    },
+    {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "followers": 45173024,
+        "worldRank": 59,
+        "monthlyListeners": 47542891,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b9e08cd875ff2a0f8ad0c334",
+        "topSongs": [
+            {
+                "id": "5CZ40GBx1sQ9agT82CLQCT",
+                "name": "traitor",
+                "playcount": "1889481635"
+            },
+            {
+                "id": "5wANPM4fQCJwkGd4rN57mH",
+                "name": "drivers license",
+                "playcount": "2467884607"
+            },
+            {
+                "id": "6HU7h9RYOaPRFeh0R3UeAr",
+                "name": "deja vu",
+                "playcount": "1898652647"
+            }
+        ],
+        "lastUpdate": 1744988208
+    },
+    {
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "followers": 16817587,
+        "worldRank": 60,
+        "monthlyListeners": 47295464,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101681727744f73f11529d0618d6",
+        "topSongs": [
+            {
+                "id": "3tFed7YsjGnIfxeLEQwx3R",
+                "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+                "playcount": "330352159"
+            },
+            {
+                "id": "2XHzzp1j4IfTNp1FTn7YFg",
+                "name": "Love Me",
+                "playcount": "1041433601"
+            },
+            {
+                "id": "0b4M7hd7mzLTm99MrMeZsp",
+                "name": "She Will",
+                "playcount": "376727625"
+            }
+        ],
+        "lastUpdate": 1744988235
+    },
+    {
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "followers": 14732775,
+        "worldRank": 61,
+        "monthlyListeners": 47221893,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb0dc33a1c53bb58a84b45d6a7",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016315797d48436f7d7acdd951f",
+        "topSongs": [
+            {
+                "id": "7rglLriMNBPAyuJOMGwi39",
+                "name": "Cold Heart - PNAU Remix",
+                "playcount": "2344868577"
+            },
+            {
+                "id": "1jDJFeK9x3OZboIAHsY9k2",
+                "name": "I'm Still Standing",
+                "playcount": "1342496752"
+            },
+            {
+                "id": "3gdewACMIVMEWVbyb8O9sY",
+                "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+                "playcount": "1281855765"
+            }
+        ],
+        "lastUpdate": 1744988209
+    },
+    {
+        "id": "3fMbdgg4jU18AjLCKBhRSm",
+        "name": "Michael Jackson",
+        "followers": 35414556,
+        "worldRank": 62,
+        "monthlyListeners": 46504664,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163753db8546a0d1ec0972c594",
+        "topSongs": [
+            {
+                "id": "7J1uxwnxfQLu4APicE5Rnj",
+                "name": "Billie Jean",
+                "playcount": "2120430551"
+            },
+            {
+                "id": "3BovdzfaX4jb5KFQwoPfAw",
+                "name": "Beat It",
+                "playcount": "1368143621"
+            },
+            {
+                "id": "5T7ywazdGIydr6JCW6t02j",
+                "name": "Smooth Criminal - 2012 Remaster",
+                "playcount": "857199488"
+            }
+        ],
+        "lastUpdate": 1744988215
+    },
+    {
+        "id": "6KImCVD70vtIoJWnq6nGn3",
+        "name": "Harry Styles",
+        "followers": 33627512,
+        "worldRank": 63,
+        "monthlyListeners": 46031924,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101692dbf2c81200277b5955df67",
+        "topSongs": [
+            {
+                "id": "4Dvkj6JhhA12EX05fT7y2e",
+                "name": "As It Was",
+                "playcount": "3837695762"
+            },
+            {
+                "id": "5Ohxk2dO5COHF1krpoPigN",
+                "name": "Sign of the Times",
+                "playcount": "1757471217"
+            },
+            {
+                "id": "6UelLqGlWMcVH1E5c4H7lY",
+                "name": "Watermelon Sugar",
+                "playcount": "2987174652"
+            }
+        ],
+        "lastUpdate": 1744988213
+    },
+    {
+        "id": "7GlBOeep6PqTfFi59PTUUN",
+        "name": "Chappell Roan",
+        "followers": 5939211,
+        "worldRank": 67,
+        "monthlyListeners": 45500413,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161cf01c454b7454bd83856f68",
+        "topSongs": [
+            {
+                "id": "0WbMK4wrZ1wFSty9F7FCgu",
+                "name": "Good Luck, Babe!",
+                "playcount": "1451135443"
+            },
+            {
+                "id": "6393yGahSJ9slVdOwSxOVR",
+                "name": "Pink Pony Club",
+                "playcount": "601534094"
+            },
+            {
+                "id": "5xHgo5JN0wfsV41HnRaos5",
+                "name": "The Giver",
+                "playcount": "66228591"
+            }
+        ],
+        "lastUpdate": 1744988338
+    },
+    {
+        "id": "1yxSLGMDHlW21z4YXirZDS",
+        "name": "Black Eyed Peas",
+        "followers": 8902928,
+        "worldRank": 69,
+        "monthlyListeners": 45061839,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6abca3789c7f4826ed99db2e",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101644b8cd46fc58fd11d715966a",
+        "topSongs": [
+            {
+                "id": "2H1047e0oMSj10dgp7p2VG",
+                "name": "I Gotta Feeling",
+                "playcount": "1706085513"
+            },
+            {
+                "id": "6wOYnPq1hPihRepcDClPUw",
+                "name": "Meet Me Halfway",
+                "playcount": "780066408"
+            },
+            {
+                "id": "0xmjwnQ3FNE6HuWCt2nHdZ",
+                "name": "Where Is The Love?",
+                "playcount": "1168289062"
+            }
+        ],
+        "lastUpdate": 1744988219
+    },
+    {
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "followers": 22348624,
+        "worldRank": 70,
+        "monthlyListeners": 44882869,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101643e6a7d74cd237d858a23883",
+        "topSongs": [
+            {
+                "id": "52eIcoLUM25zbQupAZYoFh",
+                "name": "redrum",
+                "playcount": "684012733"
+            },
+            {
+                "id": "4pftaoQbbheCXSdleWIeDK",
+                "name": "GBP (feat. 21 Savage)",
+                "playcount": "86631387"
+            },
+            {
+                "id": "2dHHgzDwk4BJdRwy9uXhTO",
+                "name": "Creepin' (with The Weeknd & 21 Savage)",
+                "playcount": "1562207969"
+            }
+        ],
+        "lastUpdate": 1744988205
+    },
+    {
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "followers": 34832721,
+        "worldRank": 71,
+        "monthlyListeners": 44469564,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b4c8349afeb32cf0531c98a0",
+        "topSongs": [
+            {
+                "id": "6v3KW9xbzN5yKLt9YKDYA2",
+                "name": "Señorita",
+                "playcount": "2980429730"
+            },
+            {
+                "id": "2ogKhhoMClkFXek7ZgxAhN",
+                "name": "Shameless",
+                "playcount": "747065776"
+            },
+            {
+                "id": "1rfofaqEpACxVEHIZBJe6W",
+                "name": "Havana (feat. Young Thug)",
+                "playcount": "2263866168"
+            }
+        ],
+        "lastUpdate": 1744988216
+    },
+    {
+        "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+        "name": "One Direction",
+        "followers": 39273995,
+        "worldRank": 72,
+        "monthlyListeners": 43952373,
+        "avatarImage": "https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d16bdce3070f55b9c0f0a952",
+        "topSongs": [
+            {
+                "id": "5O2P9iiztwhomNh8xkR9lJ",
+                "name": "Night Changes",
+                "playcount": "2104851170"
+            },
+            {
+                "id": "4nVBt6MZDDP6tRVdQTgxJg",
+                "name": "Story of My Life",
+                "playcount": "1619928023"
+            },
+            {
+                "id": "4cluDES4hQEUhmXj6TXkSo",
+                "name": "What Makes You Beautiful",
+                "playcount": "1562243349"
+            }
+        ],
+        "lastUpdate": 1744988218
+    },
+    {
+        "id": "31TPClRtHm23RisEBtV3X7",
+        "name": "Justin Timberlake",
+        "followers": 15285237,
+        "worldRank": 74,
+        "monthlyListeners": 43485591,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016def8b38ba8ede70fe5c93a8e",
+        "topSongs": [
+            {
+                "id": "4rHZZAmHpZrA3iH5zx8frV",
+                "name": "Mirrors",
+                "playcount": "1227595553"
+            },
+            {
+                "id": "0O45fw2L5vsWpdsOdXwNAR",
+                "name": "SexyBack (feat. Timbaland)",
+                "playcount": "1054253125"
+            },
+            {
+                "id": "1AWQoqb9bSvzTjaLralEkT",
+                "name": "Rock Your Body",
+                "playcount": "774357160"
+            }
+        ],
+        "lastUpdate": 1744988226
+    },
+    {
+        "id": "1i8SpTcr7yvPOmcqrbnVXY",
+        "name": "Ozuna",
+        "followers": 38403820,
+        "worldRank": 75,
+        "monthlyListeners": 43377356,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb463e10d5f1a533ddd6eb9a04",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a8f950894d2a040a6fc5668a",
+        "topSongs": [
+            {
+                "id": "1m69ELEgE6k5ZWsap40ozt",
+                "name": "Se Preparó",
+                "playcount": "983308942"
+            },
+            {
+                "id": "1zsPaEkglFvxjAhrM8yhpr",
+                "name": "Hey Mor",
+                "playcount": "1144259158"
+            },
+            {
+                "id": "6C1RD7YQVvt3YQj0CmuTeu",
+                "name": "Diles",
+                "playcount": "988792678"
+            }
+        ],
+        "lastUpdate": 1744988222
+    },
+    {
+        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+        "name": "Ty Dolla $ign",
+        "followers": 6466641,
+        "worldRank": 76,
+        "monthlyListeners": 43125746,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016225ce1dd677b02e7d65d7400",
+        "topSongs": [
+            {
+                "id": "2McT2fkH0VDqPsbiB9HWPq",
+                "name": "CARNIVAL",
+                "playcount": "734594452"
+            },
+            {
+                "id": "7t2bFihaDvhIrd2gn2CWJO",
+                "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",
+                "playcount": "1107299437"
+            },
+            {
+                "id": "6Ilomcr9iLplsgAvZjHkJP",
+                "name": "Location",
+                "playcount": "38477865"
+            }
+        ],
+        "lastUpdate": 1744988246
+    },
+    {
+        "id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "followers": 44764343,
+        "worldRank": 79,
+        "monthlyListeners": 42592780,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a28201dac37e871e96354ef4",
+        "topSongs": [
+            {
+                "id": "7JJmb5XwzOO8jgpou264Ml",
+                "name": "There's Nothing Holdin' Me Back",
+                "playcount": "2378837371"
+            },
+            {
+                "id": "3QGsuHI8jO1Rx4JWLUh9jd",
+                "name": "Treat You Better",
+                "playcount": "2464201851"
+            },
+            {
+                "id": "5jsw9uXEGuKyJzs0boZ1bT",
+                "name": "Stitches",
+                "playcount": "2159167002"
+            }
+        ],
+        "lastUpdate": 1744988214
+    },
+    {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "followers": 13010683,
+        "worldRank": 80,
+        "monthlyListeners": 42541306,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b0a17a6d433f4c116ef8ca2b",
+        "topSongs": [
+            {
+                "id": "7MmG8p0F9N3C4AXdK6o6Eb",
+                "name": "Outside (feat. Ellie Goulding)",
+                "playcount": "1421115745"
+            },
+            {
+                "id": "0Cy7wt6IlRfBPHXXjmZbcP",
+                "name": "Love Me Like You Do",
+                "playcount": "541235466"
+            },
+            {
+                "id": "3zHq9ouUJQFQRf3cm1rRLu",
+                "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+                "playcount": "1649770141"
+            }
+        ],
+        "lastUpdate": 1744988228
+    },
+    {
+        "id": "3Isy6kedDrgPYoTS1dazA9",
+        "name": "Sean Paul",
+        "followers": 5102201,
+        "worldRank": 86,
+        "monthlyListeners": 40215879,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101627451240089a845a5fc9e255",
+        "topSongs": [
+            {
+                "id": "48QmG1dfvMuYLxMPt7KSRA",
+                "name": "No Lie",
+                "playcount": "1368129789"
+            },
+            {
+                "id": "0k2GOhqsrxDTAbFFSdNJjT",
+                "name": "Temperature",
+                "playcount": "1036215918"
+            },
+            {
+                "id": "1zZIGnXIcDKU8QIUkR20nK",
+                "name": "She Doesn't Mind",
+                "playcount": "461620488"
+            }
+        ],
+        "lastUpdate": 1744988250
+    },
+    {
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "followers": 16559904,
+        "worldRank": 87,
+        "monthlyListeners": 40139306,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb26e59b825251b7df20a7b65e",
+        "headerImage": "https://i.scdn.co/image/ab676186000010168c970e71ba0378af7d0ef1a0",
+        "topSongs": [
+            {
+                "id": "6I9VzXrHxO9rA9A5euc8Ak",
+                "name": "Toxic",
+                "playcount": "1568121473"
+            },
+            {
+                "id": "6ic8OlLUNEATToEFU3xmaH",
+                "name": "Gimme More",
+                "playcount": "897081553"
+            },
+            {
+                "id": "3MjUtNVVq3C8Fn0MP3zhXa",
+                "name": "...Baby One More Time",
+                "playcount": "1071740836"
+            }
+        ],
+        "lastUpdate": 1744988230
+    },
+    {
+        "id": "6LqNN22kT3074XbTVUrhzX",
+        "name": "Kesha",
+        "followers": 8640100,
+        "worldRank": 88,
+        "monthlyListeners": 40049132,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016f850d88f2954c033041d04ff",
+        "topSongs": [
+            {
+                "id": "3cHyrEgdyYRjgJKSOiOtcS",
+                "name": "Timber",
+                "playcount": "1786857501"
+            },
+            {
+                "id": "0HPD5WQqrq7wPWR7P7Dw1i",
+                "name": "TiK ToK",
+                "playcount": "1492549632"
+            },
+            {
+                "id": "3GpbwCm3YxiWDvy29Uo3vP",
+                "name": "Right Round",
+                "playcount": "776877932"
+            }
+        ],
+        "lastUpdate": 1744988244
+    },
+    {
+        "id": "7iK8PXO48WeuP03g8YR51W",
+        "name": "Myke Towers",
+        "followers": 19668685,
+        "worldRank": 89,
+        "monthlyListeners": 39469932,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb8372345609bebaf1e948ef7f",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016da027bd02861c5650ec96fe9",
+        "topSongs": [
+            {
+                "id": "0qeIFEGRQqHoaJtLCl0U73",
+                "name": "DEGENERE 👑 (feat. benny blanco)",
+                "playcount": "308791971"
+            },
+            {
+                "id": "7ABLbnD53cQK00mhcaOUVG",
+                "name": "LALA",
+                "playcount": "1187072264"
+            },
+            {
+                "id": "0eeX8L0DWvGth1F6xVkvv7",
+                "name": "ADIVINO",
+                "playcount": "414361572"
+            }
+        ],
+        "lastUpdate": 1744988224
+    },
+    {
+        "id": "137W8MRPWKqSmrBGDBFSop",
+        "name": "Wiz Khalifa",
+        "followers": 11980769,
+        "worldRank": 90,
+        "monthlyListeners": 39375430,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc66b0a8c3268f0b6556f64a8",
+        "headerImage": "https://i.scdn.co/image/ab676186000010168416386d516cdca4ef882b11",
+        "topSongs": [
+            {
+                "id": "56oGoEjA9eTZYgsttEFKY3",
+                "name": "The Thrill",
+                "playcount": "485160481"
+            },
+            {
+                "id": "2JzZzZUQj3Qff7wapcbKjc",
+                "name": "See You Again (feat. Charlie Puth)",
+                "playcount": "2108462035"
+            },
+            {
+                "id": "6YbhspuOar1D9WSSnfe7ds",
+                "name": "Young, Wild & Free (feat. Bruno Mars)",
+                "playcount": "1605418599"
+            }
+        ],
+        "lastUpdate": 1744988252
+    },
+    {
+        "id": "6tbjWDEIzxoDsBA1FuhfPW",
+        "name": "Madonna",
+        "followers": 8486742,
+        "worldRank": 91,
+        "monthlyListeners": 38480251,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6ccc1215f5b205aa6b34b48b",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016460e5e964fc4f268e9e471fc",
+        "topSongs": [
+            {
+                "id": "6WzRpISELf3YglGAh7TXcG",
+                "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+                "playcount": "1101785620"
+            },
+            {
+                "id": "6r8k1vznHrzlEKYxL4dZEe",
+                "name": "La Isla Bonita",
+                "playcount": "492407503"
+            },
+            {
+                "id": "2v7ywbUzCgcVohHaKUcacV",
+                "name": "Like a Prayer",
+                "playcount": "594897162"
+            }
+        ],
+        "lastUpdate": 1744988232
+    },
+    {
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Tiësto",
+        "followers": 7803662,
+        "worldRank": 94,
+        "monthlyListeners": 37947766,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe84e08fb1dfa2bf9b5a61563",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163502aec1bb666806e82125ad",
+        "topSongs": [
+            {
+                "id": "09CnYHiZ5jGT1wr1TXJ9Zt",
+                "name": "Thank You (Not So Bad)",
+                "playcount": "447436815"
+            },
+            {
+                "id": "36gcliMRX1vCpgnrZE3dFZ",
+                "name": "10:35",
+                "playcount": "684904336"
+            },
+            {
+                "id": "3IhM5Mber8KA0NaRNpK2px",
+                "name": "Lay Low",
+                "playcount": "527555135"
+            }
+        ],
+        "lastUpdate": 1744988217
+    },
+    {
+        "id": "1vCWHaC5f2uS3yhpwWbIA6",
+        "name": "Avicii",
+        "followers": 23521578,
+        "worldRank": 95,
+        "monthlyListeners": 37893309,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016854168487c5bbfe52478ba09",
+        "topSongs": [
+            {
+                "id": "0nrRP2bk19rLc0orkWPQk2",
+                "name": "Wake Me Up",
+                "playcount": "2682829786"
+            },
+            {
+                "id": "0ct6r3EGTcMLPtrXHDvVjc",
+                "name": "The Nights",
+                "playcount": "2067454115"
+            },
+            {
+                "id": "2P4OICZRVAQcYAV2JReRfj",
+                "name": "Waiting For Love",
+                "playcount": "1577156998"
+            }
+        ],
+        "lastUpdate": 1744988245
+    },
+    {
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "followers": 16379609,
+        "worldRank": 96,
+        "monthlyListeners": 37683552,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016ed11149d297f17fe1bdefb02",
+        "topSongs": [
+            {
+                "id": "3ZaEs1O8BG581qYPHpQ8d6",
+                "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+                "playcount": "507644017"
+            },
+            {
+                "id": "2aPTvyE09vUCRwVvj0I8WK",
+                "name": "Sundress",
+                "playcount": "853184712"
+            },
+            {
+                "id": "7ycWLEP1GsNjVvcjawXz3z",
+                "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+                "playcount": "1471850527"
+            }
+        ],
+        "lastUpdate": 1744988243
+    },
+    {
+        "id": "1KCSPY1glIKqW2TotWuXOR",
+        "name": "P!nk",
+        "followers": 17804765,
+        "worldRank": 98,
+        "monthlyListeners": 37313052,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a20c8df17713edeae52c37ef",
+        "topSongs": [
+            {
+                "id": "1mKXFLRA179hdOWQBwUk9e",
+                "name": "Just Give Me a Reason (feat. Nate Ruess)",
+                "playcount": "1606718794"
+            },
+            {
+                "id": "1jF7IL57ayN4Ity3jQqGu0",
+                "name": "Try",
+                "playcount": "852741988"
+            },
+            {
+                "id": "2hns6Dv29Yrg68AVTJiAyA",
+                "name": "Who Knew - Edit",
+                "playcount": "401720864"
+            }
+        ],
+        "lastUpdate": 1744988241
+    },
+    {
+        "id": "3q7HBObVc0L8jNeTe5Gofh",
+        "name": "50 Cent",
+        "followers": 17491051,
+        "worldRank": 101,
+        "monthlyListeners": 37002707,
+        "avatarImage": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a13e6accbca3943f442de208",
+        "topSongs": [
+            {
+                "id": "4RY96Asd9IefaL3X4LOLZ8",
+                "name": "In Da Club",
+                "playcount": "1782528984"
+            },
+            {
+                "id": "5D2mYZuzcgjpchVY1pmTPh",
+                "name": "Candy Shop",
+                "playcount": "1112685410"
+            },
+            {
+                "id": "2D1hlMwWWXpkc3CZJ5U351",
+                "name": "P.I.M.P.",
+                "playcount": "910555139"
+            }
+        ],
+        "lastUpdate": 1744988231
+    },
+    {
+        "id": "0jnsk9HBra6NMjO2oANoPY",
+        "name": "Flo Rida",
+        "followers": 8924804,
+        "worldRank": 103,
+        "monthlyListeners": 36613079,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b9e66c9b86a4ff5c413cd2a1",
+        "topSongs": [
+            {
+                "id": "0CAfXk7DXMnon4gLudAp7J",
+                "name": "Low (feat. T-Pain)",
+                "playcount": "1259564537"
+            },
+            {
+                "id": "3GpbwCm3YxiWDvy29Uo3vP",
+                "name": "Right Round",
+                "playcount": "776877932"
+            },
+            {
+                "id": "1NpW5kyvO4XrNJ3rnfcNy3",
+                "name": "Wild Ones (feat. Sia)",
+                "playcount": "1029171883"
+            }
+        ],
+        "lastUpdate": 1744988261
+    },
+    {
+        "id": "0L8ExT028jH3ddEcZwqJJ5",
+        "name": "Red Hot Chili Peppers",
+        "followers": 22373464,
+        "worldRank": 105,
+        "monthlyListeners": 36289310,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016ebacc4e617fc5e8d67fcfc06",
+        "topSongs": [
+            {
+                "id": "3ZOEytgrvLwQaqXreDs2Jx",
+                "name": "Can't Stop",
+                "playcount": "1493182657"
+            },
+            {
+                "id": "48UPSzbZjgc449aqz8bxox",
+                "name": "Californication",
+                "playcount": "1644698182"
+            },
+            {
+                "id": "3d9DChrdc6BOeFsbrZ3Is0",
+                "name": "Under the Bridge",
+                "playcount": "1615160526"
+            }
+        ],
+        "lastUpdate": 1744988239
+    },
+    {
+        "id": "2h93pZq0e7k5yf4dywlkpM",
+        "name": "Frank Ocean",
+        "followers": 18507686,
+        "worldRank": 107,
+        "monthlyListeners": 36011051,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+        "headerImage": "https://i.scdn.co/image/ab676186000010166847104bbcb8891c6d65d50a",
+        "topSongs": [
+            {
+                "id": "3xKsf9qdS1CyvXSMEid6g8",
+                "name": "Pink + White",
+                "playcount": "1766773756"
+            },
+            {
+                "id": "2LMkwUfqC6S6s6qDVlEuzV",
+                "name": "White Ferrari",
+                "playcount": "819872364"
+            },
+            {
+                "id": "7DfFc7a6Rwfi3YQMRbDMau",
+                "name": "Thinkin Bout You",
+                "playcount": "1287415537"
+            }
+        ],
+        "lastUpdate": 1744988236
+    },
+    {
+        "id": "540vIaP2JwjQb9dm3aArA4",
+        "name": "DJ Snake",
+        "followers": 9095815,
+        "worldRank": 109,
+        "monthlyListeners": 35936833,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebca97cf089968b569e29d795c",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016bc73d58a79ae8db982d0f73c",
+        "topSongs": [
+            {
+                "id": "0lYBSQXN6rCTvUZvg9S0lU",
+                "name": "Let Me Love You",
+                "playcount": "2467024672"
+            },
+            {
+                "id": "01aTsQoKoeXofSTvKuunzv",
+                "name": "Lean On",
+                "playcount": "2330089278"
+            },
+            {
+                "id": "0KoiMHhqKLoL4xM54rcWYY",
+                "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+                "playcount": "1679567461"
+            }
+        ],
+        "lastUpdate": 1744988247
+    },
+    {
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "followers": 26125271,
+        "worldRank": 110,
+        "monthlyListeners": 35631416,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d426661a6579ec20e2e96b79",
+        "topSongs": [
+            {
+                "id": "68Dni7IE4VyPkTOH9mRWHr",
+                "name": "No Role Modelz",
+                "playcount": "2556375802"
+            },
+            {
+                "id": "4tqcoej1zPvwePZCzuAjJd",
+                "name": "Wet Dreamz",
+                "playcount": "1409366613"
+            },
+            {
+                "id": "2wAJTrFhCnQyNSD3oUgTZO",
+                "name": "Work Out",
+                "playcount": "1124224072"
+            }
+        ],
+        "lastUpdate": 1744988223
+    },
+    {
+        "id": "64M6ah0SkkRsnPGtGiRAbb",
+        "name": "Bebe Rexha",
+        "followers": 9588135,
+        "worldRank": 113,
+        "monthlyListeners": 35091621,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101690722a31ad0ae1dca4f2479d",
+        "topSongs": [
+            {
+                "id": "4uUG5RXrOk84mYEfFvj3cK",
+                "name": "I'm Good (Blue)",
+                "playcount": "2053729923"
+            },
+            {
+                "id": "40YcuQysJ0KlGQTeGUosTC",
+                "name": "Me, Myself & I",
+                "playcount": "1450310358"
+            },
+            {
+                "id": "23L5CiUhw2jV1OIMwthR3S",
+                "name": "In the Name of Love",
+                "playcount": "1581582429"
+            }
+        ],
+        "lastUpdate": 1744988225
+    },
+    {
+        "id": "4IWBUUAFIplrNtaOHcJPRM",
+        "name": "James Arthur",
+        "followers": 20026740,
+        "worldRank": 114,
+        "monthlyListeners": 34699872,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb5a55e66595e80fb12dc5f5fa",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016808619248171cad84c3a6727",
+        "topSongs": [
+            {
+                "id": "5uCax9HTNlzGybIStD3vDh",
+                "name": "Say You Won't Let Go",
+                "playcount": "3224714700"
+            },
+            {
+                "id": "0otRX6Z89qKkHkQ9OqJpKt",
+                "name": "Car's Outside",
+                "playcount": "796725126"
+            },
+            {
+                "id": "6mQLN3zRtAp6ovjusyYKrV",
+                "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+                "playcount": "1064895285"
+            }
+        ],
+        "lastUpdate": 1744988248
+    },
+    {
+        "id": "329e4yvIujISKGKz1BZZbO",
+        "name": "Farruko",
+        "followers": 16545714,
+        "worldRank": 120,
+        "monthlyListeners": 34270542,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7d36b670eff30cc4de53f67c",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101675fb15a8cd725cd1081d1fab",
+        "topSongs": [
+            {
+                "id": "2B4GHvToeLTOBB4QLzW3Ni",
+                "name": "Pepas",
+                "playcount": "1643217019"
+            },
+            {
+                "id": "6C1RD7YQVvt3YQj0CmuTeu",
+                "name": "Diles",
+                "playcount": "988792678"
+            },
+            {
+                "id": "3BomnHfqKZCdPJC9bkGBjE",
+                "name": "On My Way",
+                "playcount": "774259394"
+            }
+        ],
+        "lastUpdate": 1744988249
+    },
+    {
+        "id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "name": "JAY-Z",
+        "followers": 9990577,
+        "worldRank": 121,
+        "monthlyListeners": 34003028,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4",
+        "headerImage": "https://i.scdn.co/image/ab676186000010162cc53ca0852b13e21bb70359",
+        "topSongs": [
+            {
+                "id": "2igwFfvr1OAGX9SKDCPBwO",
+                "name": "Empire State Of Mind",
+                "playcount": "1227405349"
+            },
+            {
+                "id": "1auxYwYrFRqZP7t3s7w4um",
+                "name": "Ni**as In Paris",
+                "playcount": "1611482129"
+            },
+            {
+                "id": "7LR85XLWw2yXqKBSI5brbG",
+                "name": "Run This Town",
+                "playcount": "624162308"
+            }
+        ],
+        "lastUpdate": 1744988240
+    },
+    {
+        "id": "5lwmRuXgjX8xIwlnauTZIP",
+        "name": "Romeo Santos",
+        "followers": 25038815,
+        "worldRank": 123,
+        "monthlyListeners": 33893943,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6d8b48abede0f9e433aa6e49",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d0b71020f1bbfd316f4b9167",
+        "topSongs": [
+            {
+                "id": "1YYfyJ2yCvGFCxwjsIqEK9",
+                "name": "Khé?",
+                "playcount": "345308056"
+            },
+            {
+                "id": "5PycBIeabfvX3n9ILG7Vrv",
+                "name": "Propuesta Indecente",
+                "playcount": "934235007"
+            },
+            {
+                "id": "6I86RF3odBlcuZA9Vfjzeq",
+                "name": "Eres Mía",
+                "playcount": "727736922"
+            }
+        ],
+        "lastUpdate": 1744988270
+    },
+    {
+        "id": "15UsOTVnJzReFVN1VCnxy4",
+        "name": "XXXTENTACION",
+        "followers": 49796408,
+        "worldRank": 125,
+        "monthlyListeners": 33583547,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
+        "topSongs": [
+            {
+                "id": "4jvjzW7Hm0yK4LvvE0Paz9",
+                "name": "Falling Down - Bonus Track",
+                "playcount": "1444510557"
+            },
+            {
+                "id": "5TXDeTFVRVY7Cvt0Dw4vWW",
+                "name": "Revenge",
+                "playcount": "1707587860"
+            },
+            {
+                "id": "7AQim7LbvFVZJE3O8TYgf2",
+                "name": "Fuck Love",
+                "playcount": "1916638223"
+            }
+        ],
+        "lastUpdate": 1744988221
+    },
+    {
+        "id": "6olE6TJLqED3rqDCT0FyPh",
+        "name": "Nirvana",
+        "followers": 21950903,
+        "worldRank": 127,
+        "monthlyListeners": 33131818,
+        "avatarImage": "https://i.scdn.co/image/a4e10b79a642e9891383448cbf37d7266a6883d6",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101632c0882daa24998e90a850d5",
+        "topSongs": [
+            {
+                "id": "5ghIJDpPoe3CfHMGu71E6T",
+                "name": "Smells Like Teen Spirit",
+                "playcount": "2368767249"
+            },
+            {
+                "id": "4P5KoWXOxwuobLmHXLMobV",
+                "name": "Come As You Are",
+                "playcount": "1578573417"
+            },
+            {
+                "id": "11LmqTE2naFULdEP94AUBa",
+                "name": "Heart-Shaped Box",
+                "playcount": "890040908"
+            }
+        ],
+        "lastUpdate": 1744988257
+    },
+    {
+        "id": "711MCceyCBcFnzjGY4Q7Un",
+        "name": "AC/DC",
+        "followers": 30995736,
+        "worldRank": 130,
+        "monthlyListeners": 32854262,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165a068ae2aedd6be68e0f6c0a",
+        "topSongs": [
+            {
+                "id": "57bgtoPSgt236HzfBOd8kj",
+                "name": "Thunderstruck",
+                "playcount": "1806114643"
+            },
+            {
+                "id": "2zYzyRzz6pRmhPzyfMEC8s",
+                "name": "Highway to Hell",
+                "playcount": "1911091816"
+            },
+            {
+                "id": "08mG3Y1vljYA6bvDt4Wqkj",
+                "name": "Back In Black",
+                "playcount": "1829929129"
+            }
+        ],
+        "lastUpdate": 1744988238
+    },
+    {
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "followers": 9333129,
+        "worldRank": 131,
+        "monthlyListeners": 32777902,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb978b95b8e03351df8e103af",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016182610871983f936fbb741cd",
+        "topSongs": [
+            {
+                "id": "4Na2HfNSr58chvfX69fy36",
+                "name": "one of wun",
+                "playcount": "375499845"
+            },
+            {
+                "id": "4rXLjWdF2ZZpXCVTfWcshS",
+                "name": "fukumean",
+                "playcount": "1062091722"
+            },
+            {
+                "id": "6EUcP55GlbmsmCzfL2vxtZ",
+                "name": "on one tonight",
+                "playcount": "256825023"
+            }
+        ],
+        "lastUpdate": 1744988234
+    },
+    {
+        "id": "7oPftvlwr6VrsViSDV7fJY",
+        "name": "Green Day",
+        "followers": 16490253,
+        "worldRank": 133,
+        "monthlyListeners": 32739056,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101651044fe740b3b2ae6999c20d",
+        "topSongs": [
+            {
+                "id": "6nTiIhLmQ3FWhvrGafw2zj",
+                "name": "American Idiot",
+                "playcount": "1144434067"
+            },
+            {
+                "id": "6L89mwZXSOwYl76YXfX13s",
+                "name": "Basket Case",
+                "playcount": "1279587239"
+            },
+            {
+                "id": "6ORqU0bHbVCRjXm9AjyHyZ",
+                "name": "Good Riddance (Time of Your Life)",
+                "playcount": "866527118"
+            }
+        ],
+        "lastUpdate": 1744988242
+    },
+    {
+        "id": "23fqKkggKUBHNkbKtXEls4",
+        "name": "Kygo",
+        "followers": 8606692,
+        "worldRank": 134,
+        "monthlyListeners": 32623879,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163d12b751702cc6fb1df8abc4",
+        "topSongs": [
+            {
+                "id": "4rTPLtqJxa4UtCBkdMwSp6",
+                "name": "Whatever",
+                "playcount": "448444018"
+            },
+            {
+                "id": "1kKYjjfNYxE0YYgLa7vgVY",
+                "name": "Higher Love",
+                "playcount": "1072861428"
+            },
+            {
+                "id": "12GEpg2XOPyqk03JZEZnJs",
+                "name": "It Ain’t Me (with Selena Gomez)",
+                "playcount": "1562490118"
+            }
+        ],
+        "lastUpdate": 1744988256
+    },
+    {
+        "id": "1zNqDE7qDGCsyzJwohVaoX",
+        "name": "Anne-Marie",
+        "followers": 12430681,
+        "worldRank": 135,
+        "monthlyListeners": 32498610,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb0fc46d81e66450d99a3b0c05",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016806718d6caaa472b1adbd315",
+        "topSongs": [
+            {
+                "id": "6mQLN3zRtAp6ovjusyYKrV",
+                "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+                "playcount": "1064895285"
+            },
+            {
+                "id": "2BgEsaKNfHUdlh97KmvFyo",
+                "name": "2002",
+                "playcount": "1670236886"
+            },
+            {
+                "id": "3BKD1PwArikchz2Zrlp1qi",
+                "name": "Baby Don't Hurt Me",
+                "playcount": "731531889"
+            }
+        ],
+        "lastUpdate": 1744988260
+    },
+    {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "followers": 24406162,
+        "worldRank": 137,
+        "monthlyListeners": 32425409,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016927dbe12563b3bf44aa262b9",
+        "topSongs": [
+            {
+                "id": "54PbBpquVfhfrwRwvjSXbI",
+                "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+                "playcount": "2165559696"
+            },
+            {
+                "id": "2JzZzZUQj3Qff7wapcbKjc",
+                "name": "See You Again (feat. Charlie Puth)",
+                "playcount": "2108462035"
+            },
+            {
+                "id": "5cF0dROlMOK5uNZtivgu50",
+                "name": "Attention",
+                "playcount": "2014187874"
+            }
+        ],
+        "lastUpdate": 1744988227
+    },
+    {
+        "id": "3JhNCzhSMTxs9WLGJJxWOY",
+        "name": "Macklemore",
+        "followers": 2649844,
+        "worldRank": 138,
+        "monthlyListeners": 32424993,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb488b3b242f97163a7f8e17b9",
+        "headerImage": "https://i.scdn.co/image/ab676186000010166d521fcb8d5011b205f35f3f",
+        "topSongs": [
+            {
+                "id": "22skzmqfdWrjJylampe0kt",
+                "name": "Can't Hold Us (feat. Ray Dalton)",
+                "playcount": "2835479487"
+            },
+            {
+                "id": "6CjtS2JZH9RkDz5UVInsa9",
+                "name": "Thrift Shop (feat. Wanz)",
+                "playcount": "1404793857"
+            },
+            {
+                "id": "0CokSRCu5hZgPxcZBaEzVE",
+                "name": "Glorious (feat. Skylar Grey)",
+                "playcount": "994438719"
+            }
+        ],
+        "lastUpdate": 1744988265
+    },
+    {
+        "id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "name": "The Beatles",
+        "followers": 29770492,
+        "worldRank": 142,
+        "monthlyListeners": 32196758,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a8cb2dfde1cb627435b3892a",
+        "topSongs": [
+            {
+                "id": "6dGnYIeXmHdcikdzNNDMm2",
+                "name": "Here Comes The Sun - Remastered 2009",
+                "playcount": "1569294627"
+            },
+            {
+                "id": "7iN1s7xHE4ifF5povM6A48",
+                "name": "Let It Be - Remastered 2009",
+                "playcount": "800208373"
+            },
+            {
+                "id": "2EqlS6tkEnglzr7tkKAAYD",
+                "name": "Come Together - Remastered 2009",
+                "playcount": "832489146"
+            }
+        ],
+        "lastUpdate": 1744988237
+    },
+    {
+        "id": "5fMUXHkw8R8eOP2RNVYEZX",
+        "name": "Diplo",
+        "followers": 2771457,
+        "worldRank": 143,
+        "monthlyListeners": 32127933,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a",
+        "headerImage": "https://i.scdn.co/image/ab676186000010167d63c0d6c16c10516e545693",
+        "topSongs": [
+            {
+                "id": "2YHUlS8D0qH6GUUMNBHFgT",
+                "name": "Forever (feat. Malou & Yuna)",
+                "playcount": "62840784"
+            },
+            {
+                "id": "3FU6urUVsgXa6RBuV2PdRk",
+                "name": "Heartless (feat. Morgan Wallen)",
+                "playcount": "702582909"
+            },
+            {
+                "id": "66hayvUbTotekKU3H4ta1f",
+                "name": "Where Are Ü Now (with Justin Bieber)",
+                "playcount": "1168773644"
+            }
+        ],
+        "lastUpdate": 1744988253
+    },
+    {
+        "id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "name": "Radiohead",
+        "followers": 11924680,
+        "worldRank": 145,
+        "monthlyListeners": 31961660,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161802a4cbec82e078cc15cbb0",
+        "topSongs": [
+            {
+                "id": "70LcF31zb1H0PyJoS1Sx1r",
+                "name": "Creep",
+                "playcount": "2099179334"
+            },
+            {
+                "id": "10nyNJ6zNy2YVYLrcwLccB",
+                "name": "No Surprises",
+                "playcount": "928472499"
+            },
+            {
+                "id": "63OQupATfueTdZMWTxW03A",
+                "name": "Karma Police",
+                "playcount": "667102252"
+            }
+        ],
+        "lastUpdate": 1744988263
+    },
+    {
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "followers": 20261289,
+        "worldRank": 148,
+        "monthlyListeners": 31564813,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb6cad3eff5adc29e20f189a6c",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e51fbb621de19c27e0194030",
+        "topSongs": [
+            {
+                "id": "70TGNwQDvF5b6GQWlYPr8p",
+                "name": "BAND4BAND (feat. Lil Baby)",
+                "playcount": "438136155"
+            },
+            {
+                "id": "78QR3Wp35dqAhFEc2qAGjE",
+                "name": "Drip Too Hard (Lil Baby & Gunna)",
+                "playcount": "1649643182"
+            },
+            {
+                "id": "6JvIjI8H3yxpigROd3Cv9N",
+                "name": "Stuff (feat. Travis Scott)",
+                "playcount": "65093272"
+            }
+        ],
+        "lastUpdate": 1744988251
+    },
+    {
+        "id": "3AA28KZvwAUcZuOKwyblJQ",
+        "name": "Gorillaz",
+        "followers": 13193495,
+        "worldRank": 153,
+        "monthlyListeners": 31309692,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebce5f4c2722732fbd7e814dad",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101637b541b9d5f784439c501783",
+        "topSongs": [
+            {
+                "id": "0d28khcov6AiegSCpG5TuT",
+                "name": "Feel Good Inc.",
+                "playcount": "1759662240"
+            },
+            {
+                "id": "0q6LuUqGLUiCPP1cbdwFs3",
+                "name": "On Melancholy Hill",
+                "playcount": "747864968"
+            },
+            {
+                "id": "7yMiX7n9SBvadzox8T5jzT",
+                "name": "Clint Eastwood",
+                "playcount": "934179188"
+            }
+        ],
+        "lastUpdate": 1744988285
+    },
+    {
+        "id": "25uiPmTg16RbhZWAqwLBy5",
+        "name": "Charli xcx",
+        "followers": 5311171,
+        "worldRank": 155,
+        "monthlyListeners": 31110091,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e9ac7932ac1e4605ab2b0890",
+        "topSongs": [
+            {
+                "id": "0IsIY8pfu1yaGkPUD7pkDx",
+                "name": "Guess featuring billie eilish",
+                "playcount": "569923396"
+            },
+            {
+                "id": "2RdEC8Ff83WkX7kDVCHseE",
+                "name": "party 4 u",
+                "playcount": "64334047"
+            },
+            {
+                "id": "19RybK6XDbAVpcdxSbZL1o",
+                "name": "Apple",
+                "playcount": "340440923"
+            }
+        ],
+        "lastUpdate": 1744988229
+    },
+    {
+        "id": "07YZf4WDAMNwqr4jfgOZ8y",
+        "name": "Jason Derulo",
+        "followers": 12471355,
+        "worldRank": 160,
+        "monthlyListeners": 30479424,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101653116bcf4f9d382c88a71792",
+        "topSongs": [
+            {
+                "id": "6g6A7qNhTfUgOSH7ROOxTD",
+                "name": "Talk Dirty (feat. 2 Chainz)",
+                "playcount": "811906021"
+            },
+            {
+                "id": "67T6l4q3zVjC5nZZPXByU8",
+                "name": "Whatcha Say",
+                "playcount": "730930847"
+            },
+            {
+                "id": "7oGZAicScQt96OAW4AruYy",
+                "name": "Want to Want Me",
+                "playcount": "1127020189"
+            }
+        ],
+        "lastUpdate": 1744988264
+    },
+    {
+        "id": "7qG3b048QCHVRO5Pv1T5lw",
+        "name": "Enrique Iglesias",
+        "followers": 11612566,
+        "worldRank": 161,
+        "monthlyListeners": 30253418,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a720a7825e0095fb8cb1fa35",
+        "topSongs": [
+            {
+                "id": "4OywWddjdsFOXXSC4266hg",
+                "name": "Bailando - Spanish Version",
+                "playcount": "977976820"
+            },
+            {
+                "id": "4PHX6bpHDxiR9RGzAKWcyk",
+                "name": "Cuando Me Enamoro",
+                "playcount": "592170356"
+            },
+            {
+                "id": "3FI2qqLA5fQbohkqe8BoHC",
+                "name": "Loco",
+                "playcount": "334641217"
+            }
+        ],
+        "lastUpdate": 1744988277
+    },
+    {
+        "id": "4MCBfE4596Uoi2O4DtmEMz",
+        "name": "Juice WRLD",
+        "followers": 39757736,
+        "worldRank": 165,
+        "monthlyListeners": 30010825,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016580580ecfee3454ddf01c6d2",
+        "topSongs": [
+            {
+                "id": "285pBltuF7vW8TeWk8hdRR",
+                "name": "Lucid Dreams",
+                "playcount": "2857536178"
+            },
+            {
+                "id": "4VXIryQMWpIdGgYR4TrjT1",
+                "name": "All Girls Are The Same",
+                "playcount": "1902336812"
+            },
+            {
+                "id": "2QxekHjOYDnzNO5w8hu2D9",
+                "name": "Empty Out Your Pockets",
+                "playcount": "130828200"
+            }
+        ],
+        "lastUpdate": 1744988267
+    },
+    {
+        "id": "4npEfmQ6YuiwW1GpUmaq3F",
+        "name": "Ava Max",
+        "followers": 7450567,
+        "worldRank": 170,
+        "monthlyListeners": 29713880,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebcdad64084c4e2d450e3c0fae",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016090cbbe6d6b1ece643b1ab8e",
+        "topSongs": [
+            {
+                "id": "4rTPLtqJxa4UtCBkdMwSp6",
+                "name": "Whatever",
+                "playcount": "448444018"
+            },
+            {
+                "id": "3bg2qahpZmsg5wV2EMPXIk",
+                "name": "Forever Young",
+                "playcount": "101675623"
+            },
+            {
+                "id": "7DnAm9FOTWE3cUvso43HhI",
+                "name": "Sweet but Psycho",
+                "playcount": "1843026272"
+            }
+        ],
+        "lastUpdate": 1744988258
+    },
+    {
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "followers": 11606329,
+        "worldRank": 182,
+        "monthlyListeners": 28018621,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e7673c19fe42f12fecc3fb83",
+        "topSongs": [
+            {
+                "id": "5wG3HvLhF6Y5KTGlK0IW3J",
+                "name": "Trance (with Travis Scott & Young Thug)",
+                "playcount": "874847559"
+            },
+            {
+                "id": "4XcZp2xqbiD8YsnPboNUDo",
+                "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
+                "playcount": "25372449"
+            },
+            {
+                "id": "4IKvw1OdeTJIN3g4zWE38f",
+                "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+                "playcount": "51589810"
+            }
+        ],
+        "lastUpdate": 1744988269
+    },
+    {
+        "id": "4kYSro6naA4h99UJvo89HB",
+        "name": "Cardi B",
+        "followers": 25245532,
+        "worldRank": 185,
+        "monthlyListeners": 27970127,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163741bdf94f7b42f253cd63f8",
+        "topSongs": [
+            {
+                "id": "0PG9fbaaHFHfre2gUVo7AN",
+                "name": "Please Me",
+                "playcount": "667610102"
+            },
+            {
+                "id": "3Vo4wInECJQuz9BIBMOu8i",
+                "name": "Finesse - Remix; feat. Cardi B",
+                "playcount": "878671148"
+            },
+            {
+                "id": "58q2HKrzhC3ozto2nDdN4z",
+                "name": "I Like It",
+                "playcount": "1721420406"
+            }
+        ],
+        "lastUpdate": 1744988262
+    },
+    {
+        "id": "3t5xRXzsuZmMDkQzgOX35S",
+        "name": "Robin Schulz",
+        "followers": 3211207,
+        "worldRank": 188,
+        "monthlyListeners": 27697962,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb869ddcc058c5ff2a459ad8d5",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163f4d111e65e0b6ea1ef51d5a",
+        "topSongs": [
+            {
+                "id": "1HFfMOxCAT4GAwaPfCdmUs",
+                "name": "Waves - Robin Schulz Radio Edit",
+                "playcount": "1122330679"
+            },
+            {
+                "id": "5fnA9mkIfScSqHIpeDyvck",
+                "name": "Prayer in C - Robin Schulz Radio Edit",
+                "playcount": "1235941921"
+            },
+            {
+                "id": "5tf1VVWniHgryyumXyJM7w",
+                "name": "Sugar (feat. Francesco Yates)",
+                "playcount": "1367373758"
+            }
+        ],
+        "lastUpdate": 1744988287
+    },
+    {
+        "id": "4O15NlyKLIASxsJ0PrXPfz",
+        "name": "Lil Uzi Vert",
+        "followers": 18701642,
+        "worldRank": 192,
+        "monthlyListeners": 27401775,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eba8ce348f34f18241d3249fa9",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101679db4ebc90b57039d64ec0fe",
+        "topSongs": [
+            {
+                "id": "1jKlRcH7X78ps1yKBTWyUV",
+                "name": "Lucid Dreams (feat. Lil Uzi Vert) - Remix",
+                "playcount": "2857536178"
+            },
+            {
+                "id": "0uxSUdBrJy9Un0EYoBowng",
+                "name": "20 Min",
+                "playcount": "1224254164"
+            },
+            {
+                "id": "7GX5flRQZVHRAGd6B4TmDO",
+                "name": "XO Tour Llif3",
+                "playcount": "2325041509"
+            }
+        ],
+        "lastUpdate": 1744988259
+    },
+    {
+        "id": "738wLrAtLtCtFOLvQBXOXp",
+        "name": "Major Lazer",
+        "followers": 6276058,
+        "worldRank": 195,
+        "monthlyListeners": 27305762,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb133f44ab343b35c715a4ac97",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016dfab01e76ac8da374ccf8832",
+        "topSongs": [
+            {
+                "id": "01aTsQoKoeXofSTvKuunzv",
+                "name": "Lean On",
+                "playcount": "2330089278"
+            },
+            {
+                "id": "7zsXy7vlHdItvUSH8EwQss",
+                "name": "Cold Water",
+                "playcount": "1684000830"
+            },
+            {
+                "id": "1qFSPn37zEeCyRiVpkW9dt",
+                "name": "Light It Up (Remix)",
+                "playcount": "1426485847"
+            }
+        ],
+        "lastUpdate": 1744988276
+    },
+    {
+        "id": "2ye2Wgw4gimLv2eAKyk1NB",
+        "name": "Metallica",
+        "followers": 30459242,
+        "worldRank": 196,
+        "monthlyListeners": 27259513,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163b7dc92682e46e4914933f05",
+        "topSongs": [
+            {
+                "id": "3VqHuw0wFlIHcIPWkhIbdQ",
+                "name": "Enter Sandman (Remastered)",
+                "playcount": "1664824652"
+            },
+            {
+                "id": "2CtemffYhT0DJWcT1XW047",
+                "name": "Nothing Else Matters (Remastered)",
+                "playcount": "1357109534"
+            },
+            {
+                "id": "54bm2e3tk8cliUz3VSdCPZ",
+                "name": "Master of Puppets (Remastered)",
+                "playcount": "1008218739"
+            }
+        ],
+        "lastUpdate": 1744988274
+    },
+    {
+        "id": "02kJSzxNuaWGqwubyUba0Z",
+        "name": "G-Eazy",
+        "followers": 5896960,
+        "worldRank": 198,
+        "monthlyListeners": 26809839,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb60faff29eca3df2de27aff99",
+        "headerImage": "https://i.scdn.co/image/ab676186000010164d1cd962bfe6faba8d3180b7",
+        "topSongs": [
+            {
+                "id": "068AyhyvE67qMRsMXLqAnd",
+                "name": "Lady Killers II",
+                "playcount": "255656102"
+            },
+            {
+                "id": "4Fv6wNYUixnYkj3Dgfrls8",
+                "name": "Tumblr Girls (feat. Christoph Andersson)",
+                "playcount": "517317622"
+            },
+            {
+                "id": "5k38wzpLb15YgncyWdTZE4",
+                "name": "Him & I (with Halsey)",
+                "playcount": "1086497038"
+            }
+        ],
+        "lastUpdate": 1744988288
+    },
+    {
+        "id": "7vk5e3vY1uw9plTHJAMwjN",
+        "name": "Alan Walker",
+        "followers": 40527116,
+        "worldRank": 200,
+        "monthlyListeners": 26703212,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebbf753c009fd9c2d53351dd3c",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016f786ad6bc6a8389792ffa6b1",
+        "topSongs": [
+            {
+                "id": "698ItKASDavgwZ3WjaWjtz",
+                "name": "Faded",
+                "playcount": "2154880271"
+            },
+            {
+                "id": "6B0ryXd4wz5PeX6lZzEbv7",
+                "name": "Better Off (Alone, Pt. III)",
+                "playcount": "154182811"
+            },
+            {
+                "id": "3BomnHfqKZCdPJC9bkGBjE",
+                "name": "On My Way",
+                "playcount": "774259394"
+            }
+        ],
+        "lastUpdate": 1744988268
+    },
+    {
+        "id": "4LLpKhyESsyAXpc4laK94U",
+        "name": "Mac Miller",
+        "followers": 11701904,
+        "worldRank": 201,
+        "monthlyListeners": 26605032,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101623f740d8024b6e88db9d7eb8",
+        "topSongs": [
+            {
+                "id": "7FAFkQQZFeNwOFzTrSDFIh",
+                "name": "The Spins",
+                "playcount": "957163879"
+            },
+            {
+                "id": "2z9iuAxKv4TTeCrPAxxKg9",
+                "name": "Love Lost",
+                "playcount": "343547339"
+            },
+            {
+                "id": "1OubIZ0ARYCUq5kceYUQiO",
+                "name": "Congratulations (feat. Bilal)",
+                "playcount": "412906841"
+            }
+        ],
+        "lastUpdate": 1744988281
+    },
+    {
+        "id": "6MDME20pz9RveH9rEXvrOM",
+        "name": "Clean Bandit",
+        "followers": 5803532,
+        "worldRank": 203,
+        "monthlyListeners": 26432953,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb70d80b8ab8e193aef64223ec",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a0143ec1454be3d0dc33053b",
+        "topSongs": [
+            {
+                "id": "0am001WwFBVGDGLwRh3ixi",
+                "name": "Rather Be (feat. Jess Glynne)",
+                "playcount": "1515983532"
+            },
+            {
+                "id": "72gv4zhNvRVdQA0eOenCal",
+                "name": "Symphony (feat. Zara Larsson)",
+                "playcount": "1660253058"
+            },
+            {
+                "id": "2hrUO4drrO63i7FYbCLBl2",
+                "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+                "playcount": "1673144880"
+            }
+        ],
+        "lastUpdate": 1744988271
+    },
+    {
+        "id": "4GNC7GD6oZMSxPGyXy4MNB",
+        "name": "Lewis Capaldi",
+        "followers": 13409840,
+        "worldRank": 205,
+        "monthlyListeners": 26306666,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebea7538654040e553a7b0fc28",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101696341f4d7ec5e44b47721a86",
+        "topSongs": [
+            {
+                "id": "7qEHsqek33rTcFNT9PFqLf",
+                "name": "Someone You Loved",
+                "playcount": "3869778940"
+            },
+            {
+                "id": "2gMXnyrvIjhVBUZwvLZDMP",
+                "name": "Before You Go",
+                "playcount": "2167719257"
+            },
+            {
+                "id": "4Of7rzpRpV1mWRbhp5rAqG",
+                "name": "Bruises",
+                "playcount": "1267899315"
+            }
+        ],
+        "lastUpdate": 1744988255
+    },
+    {
+        "id": "6S2OmqARrzebs0tKUEyXyp",
+        "name": "Demi Lovato",
+        "followers": 27132189,
+        "worldRank": 207,
+        "monthlyListeners": 26177180,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe106fea940fcf250f8dd5bfe",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016560ed1f1fd419e862befffc6",
+        "topSongs": [
+            {
+                "id": "1V6gIisPpYqgFeWbMLI0bA",
+                "name": "Heart Attack",
+                "playcount": "977527562"
+            },
+            {
+                "id": "3uwnnTQcHM1rDqSfA4gQNz",
+                "name": "Cool for the Summer",
+                "playcount": "909976293"
+            },
+            {
+                "id": "0mlAOSILGRys2IbvyOT5VJ",
+                "name": "Échame La Culpa",
+                "playcount": "998046854"
+            }
+        ],
+        "lastUpdate": 1744988273
+    },
+    {
+        "id": "4D75GcNG95ebPtNvoNVXhz",
+        "name": "AFROJACK",
+        "followers": 4006457,
+        "worldRank": 212,
+        "monthlyListeners": 25756846,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb78484e23002e1607039af9b9",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d7cedea8704644908916e7ab",
+        "topSongs": [
+            {
+                "id": "4QNpBfC0zvjKqPJcyqBy9W",
+                "name": "Give Me Everything (feat. Nayer)",
+                "playcount": "1569516781"
+            },
+            {
+                "id": "5Nc6m1EVQmz5vIlM4ukE4I",
+                "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix",
+                "playcount": "916179798"
+            },
+            {
+                "id": "3Z8lfbWDp4RIntp4OrJWe3",
+                "name": "Beautiful People - AFROJACK & Amél Remix",
+                "playcount": "1277806"
+            }
+        ],
+        "lastUpdate": 1744988291
+    },
+    {
+        "id": "4r63FhuTkUYltbVAg5TQnk",
+        "name": "DaBaby",
+        "followers": 12596119,
+        "worldRank": 214,
+        "monthlyListeners": 25701206,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebbd6918901c1714560669f570",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101618669a4859c62e5df6e25c18",
+        "topSongs": [
+            {
+                "id": "5nujrmhLynf4yMoMtj8AQF",
+                "name": "Levitating (feat. DaBaby)",
+                "playcount": "2298117238"
+            },
+            {
+                "id": "5MPPttjfGap2C6j6eKcO6J",
+                "name": "Baby (Lil Baby feat. DaBaby)",
+                "playcount": "596449887"
+            },
+            {
+                "id": "6Ozh9Ok6h4Oi1wUSLtBseN",
+                "name": "BOP",
+                "playcount": "889599726"
+            }
+        ],
+        "lastUpdate": 1744988283
+    },
+    {
+        "id": "22bE4uQ6baNwSHPVcDxLCe",
+        "name": "The Rolling Stones",
+        "followers": 15182457,
+        "worldRank": 215,
+        "monthlyListeners": 25646427,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016282f8e91da4dff9d5bee49a8",
+        "topSongs": [
+            {
+                "id": "63T7DJ1AFDD6Bn8VzG6JE8",
+                "name": "Paint It, Black",
+                "playcount": "1436287187"
+            },
+            {
+                "id": "7HKez549fwJQDzx3zLjHKC",
+                "name": "Start Me Up - Remastered 2009",
+                "playcount": "764943976"
+            },
+            {
+                "id": "2PzU4IB8Dr6mxV3lHuaG34",
+                "name": "(I Can't Get No) Satisfaction - Mono",
+                "playcount": "827065507"
+            }
+        ],
+        "lastUpdate": 1744988272
+    },
+    {
+        "id": "5H4yInM5zmHqpKIoMNAx4r",
+        "name": "Central Cee",
+        "followers": 8176287,
+        "worldRank": 217,
+        "monthlyListeners": 25413094,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf6469f2cbf0a7e78744a3173",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d0557e18517dad79baab37e4",
+        "topSongs": [
+            {
+                "id": "4pftaoQbbheCXSdleWIeDK",
+                "name": "GBP (feat. 21 Savage)",
+                "playcount": "86631387"
+            },
+            {
+                "id": "70TGNwQDvF5b6GQWlYPr8p",
+                "name": "BAND4BAND (feat. Lil Baby)",
+                "playcount": "438136155"
+            },
+            {
+                "id": "2FDTHlrBguDzQkp7PVj16Q",
+                "name": "Sprinter",
+                "playcount": "884779041"
+            }
+        ],
+        "lastUpdate": 1744988266
+    },
+    {
+        "id": "1ZwdS5xdxEREPySFridCfh",
+        "name": "2Pac",
+        "followers": 21234608,
+        "worldRank": 220,
+        "monthlyListeners": 25328076,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7f5cc432c9c109248ebec1ac",
+        "topSongs": [
+            {
+                "id": "3ia3dJETSOllPsv3LJkE35",
+                "name": "California Love - Original Version",
+                "playcount": "919308540"
+            },
+            {
+                "id": "0Z2J91b2iTGLVTZC4fKgxf",
+                "name": "Hit 'Em Up - Single Version",
+                "playcount": "791506947"
+            },
+            {
+                "id": "4VQNCzfZ3MdHEwwErNXpBo",
+                "name": "All Eyez On Me (ft. Big Syke)",
+                "playcount": "709968131"
+            }
+        ],
+        "lastUpdate": 1744988282
+    },
+    {
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "name": "Bob Marley & The Wailers",
+        "followers": 13107852,
+        "worldRank": 221,
+        "monthlyListeners": 25280418,
+        "avatarImage": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016100d08ed0150a33b2879f1d8",
+        "topSongs": [
+            {
+                "id": "5O4erNlJ74PIF6kGol1ZrC",
+                "name": "Could You Be Loved",
+                "playcount": "1137269701"
+            },
+            {
+                "id": "7yFvSYKk3g5g8e7Ffl16ws",
+                "name": "Three Little Birds",
+                "playcount": "1173693712"
+            },
+            {
+                "id": "6JRLFiX9NJSoRRKxowlBYr",
+                "name": "Is This Love",
+                "playcount": "904305355"
+            }
+        ],
+        "lastUpdate": 1744988284
+    },
+    {
+        "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+        "name": "BTS",
+        "followers": 78633993,
+        "worldRank": 224,
+        "monthlyListeners": 25191493,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101631e43518a5054d12899569ae",
+        "topSongs": [
+            {
+                "id": "6m1TWFMeon7ai9XLOzdbiR",
+                "name": "FAKE LOVE",
+                "playcount": "928179354"
+            },
+            {
+                "id": "46HNZY1i7O6jwTA7Slo2PI",
+                "name": "My Universe",
+                "playcount": "1429190546"
+            },
+            {
+                "id": "5QDLhrAOJJdNAmCTJ8xMyW",
+                "name": "Dynamite",
+                "playcount": "2050476572"
+            }
+        ],
+        "lastUpdate": 1744988275
+    },
+    {
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "followers": 21873841,
+        "worldRank": 243,
+        "monthlyListeners": 24084852,
+        "avatarImage": "https://i.scdn.co/image/d011c95081cd9a329e506abd7ded47535d524a07",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016982d4110a61cc6a63edcd586",
+        "topSongs": [
+            {
+                "id": "4gMgiXfqyzZLMhsksGmbQV",
+                "name": "Another Brick in the Wall, Pt. 2",
+                "playcount": "1030731593"
+            },
+            {
+                "id": "6mFkJmJqdDVQ1REhVfGgd1",
+                "name": "Wish You Were Here",
+                "playcount": "841171817"
+            },
+            {
+                "id": "5HNCy40Ni5BZJFw1TKzRsC",
+                "name": "Comfortably Numb",
+                "playcount": "693599470"
+            }
+        ],
+        "lastUpdate": 1744988308
+    },
+    {
+        "id": "4UXqAaa6dQYAk18Lv7PEgX",
+        "name": "Fall Out Boy",
+        "followers": 11234195,
+        "worldRank": 251,
+        "monthlyListeners": 23843060,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101696383194223487166438e705",
+        "topSongs": [
+            {
+                "id": "04aAxqtGp5pv12UXAg4pkq",
+                "name": "Centuries",
+                "playcount": "1345118468"
+            },
+            {
+                "id": "3Zwu2K0Qa5sT6teCCHPShP",
+                "name": "Thnks fr th Mmrs",
+                "playcount": "853924261"
+            },
+            {
+                "id": "2TfSHkHiFO4gRztVIkggkE",
+                "name": "Sugar, We're Goin Down",
+                "playcount": "901692269"
+            }
+        ],
+        "lastUpdate": 1744988286
+    },
+    {
+        "id": "1Xylc3o4UrD53lo9CvFvVg",
+        "name": "Zara Larsson",
+        "followers": 10703504,
+        "worldRank": 261,
+        "monthlyListeners": 23377076,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb7619ca2683b434e139040f70",
+        "headerImage": "https://i.scdn.co/image/ab676186000010168e165683f907b4cc465d811e",
+        "topSongs": [
+            {
+                "id": "1rIKgCH4H52lrvDcz50hS8",
+                "name": "Lush Life",
+                "playcount": "1670796970"
+            },
+            {
+                "id": "72gv4zhNvRVdQA0eOenCal",
+                "name": "Symphony (feat. Zara Larsson)",
+                "playcount": "1660253058"
+            },
+            {
+                "id": "1bgKMxPQU7JIZEhNsM1vFs",
+                "name": "Words (feat. Zara Larsson)",
+                "playcount": "458597687"
+            }
+        ],
+        "lastUpdate": 1744988278
+    },
+    {
+        "id": "5y2Xq6xcjJb2jVM54GHK3t",
+        "name": "John Legend",
+        "followers": 7655949,
+        "worldRank": 262,
+        "monthlyListeners": 23359369,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb01784e44ffd1a339350f4417",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016872dbfb77fe797fab3599d9f",
+        "topSongs": [
+            {
+                "id": "3U4isOIWM3VvDubwSI3y7a",
+                "name": "All of Me",
+                "playcount": "2697092268"
+            },
+            {
+                "id": "0vH52Icuf6LzOFrkHE8mZG",
+                "name": "Minefields",
+                "playcount": "189641389"
+            },
+            {
+                "id": "7wMPhUSe6CZga1vOMpLTJP",
+                "name": "Beauty and the Beast",
+                "playcount": "289403752"
+            }
+        ],
+        "lastUpdate": 1744988294
+    },
+    {
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "followers": 10596678,
+        "worldRank": 266,
+        "monthlyListeners": 23244128,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebdc93bb227980211b325b9d70",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e38b5eaa6d5cd43d0193d511",
+        "topSongs": [
+            {
+                "id": "2Foc5Q5nqNiosCNqttzHof",
+                "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+                "playcount": "1222124815"
+            },
+            {
+                "id": "0DiWol3AO6WpXZgp0goxAV",
+                "name": "One More Time",
+                "playcount": "712529577"
+            },
+            {
+                "id": "2cGxRwrMyEAp8dEbuZaVv6",
+                "name": "Instant Crush (feat. Julian Casablancas)",
+                "playcount": "683907856"
+            }
+        ],
+        "lastUpdate": 1744988302
+    },
+    {
+        "id": "6DPYiyq5kWVQS4RGwxzPC7",
+        "name": "Dr. Dre",
+        "followers": 14070220,
+        "worldRank": 268,
+        "monthlyListeners": 23194131,
+        "avatarImage": "https://i.scdn.co/image/170254ebdd747f4e7045df1cae8f11a42dc1a547",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d5f3e6a08dc87f6ae74ff193",
+        "topSongs": [
+            {
+                "id": "503OTo2dSqe7qk76rgsbep",
+                "name": "Still D.R.E.",
+                "playcount": "1636942269"
+            },
+            {
+                "id": "4LwU4Vp6od3Sb08CsP99GC",
+                "name": "The Next Episode",
+                "playcount": "1173407865"
+            },
+            {
+                "id": "7iXF2W9vKmDoGAhlHdpyIa",
+                "name": "Forgot About Dre",
+                "playcount": "937594104"
+            }
+        ],
+        "lastUpdate": 1744988280
+    },
+    {
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "followers": 7496122,
+        "worldRank": 284,
+        "monthlyListeners": 22597113,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb876faa285687786c3d314ae0",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165b564bb0c993bc66ffef0054",
+        "topSongs": [
+            {
+                "id": "5p3SJ3CYqrmFbboAtfNo5n",
+                "name": "Memories (feat. Kid Cudi)",
+                "playcount": "1129099974"
+            },
+            {
+                "id": "6MtKObWYda2qnNIpJI21uD",
+                "name": "Pursuit Of Happiness (Nightmare)",
+                "playcount": "891461008"
+            },
+            {
+                "id": "2ncLdwTd8qzkxiJjlbiOgC",
+                "name": "Mr. Rager",
+                "playcount": "614881573"
+            }
+        ],
+        "lastUpdate": 1744988292
+    },
+    {
+        "id": "6USv9qhCn6zfxlBQIYJ9qs",
+        "name": "Dominic Fike",
+        "followers": 2083473,
+        "worldRank": 285,
+        "monthlyListeners": 22505787,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb62462a1a43ff08f8a982791",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101685f282f03790994a3492adb8",
+        "topSongs": [
+            {
+                "id": "0rx7xu0RmZLpJjKNVZjSVv",
+                "name": "Love Hangover (feat. Dominic Fike)",
+                "playcount": "109781574"
+            },
+            {
+                "id": "7yNf9YjeO5JXUE3JEBgnYc",
+                "name": "Babydoll",
+                "playcount": "691308009"
+            },
+            {
+                "id": "0uI7yAKUf52Cn7y3sYyjiX",
+                "name": "3 Nights",
+                "playcount": "1150015510"
+            }
+        ],
+        "lastUpdate": 1744988339
+    },
+    {
+        "id": "60d24wfXkVzDSfLS6hyCjZ",
+        "name": "Martin Garrix",
+        "followers": 15189453,
+        "worldRank": 286,
+        "monthlyListeners": 22364077,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf5b8ee60f1f4ee3453aba40b",
+        "headerImage": "https://i.scdn.co/image/ab676186000010167ad2f32f5e78ca5d8f5ff848",
+        "topSongs": [
+            {
+                "id": "23L5CiUhw2jV1OIMwthR3S",
+                "name": "In the Name of Love",
+                "playcount": "1581582429"
+            },
+            {
+                "id": "3ebXMykcMXOcLeJ9xZ17XH",
+                "name": "Scared to Be Lonely",
+                "playcount": "1389072094"
+            },
+            {
+                "id": "52dEZA0A4siRTuA4e8w3ll",
+                "name": "Told You So",
+                "playcount": "43223865"
+            }
+        ],
+        "lastUpdate": 1744988293
+    },
+    {
+        "id": "5LHRHt1k9lMyONurDHEdrp",
+        "name": "Tyga",
+        "followers": 7188468,
+        "worldRank": 293,
+        "monthlyListeners": 22097214,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc0aa5c92c47f7e766074edce",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016c4ca41b63cb3240d389723c2",
+        "topSongs": [
+            {
+                "id": "2toVe5hfuIi97ytDPDbQFt",
+                "name": "Taste (feat. Offset)",
+                "playcount": "1466289418"
+            },
+            {
+                "id": "6osaMSJh9NguagEDQcZaKx",
+                "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+                "playcount": "885285089"
+            },
+            {
+                "id": "0k6DnZMLoEUH8NGD5zh2SE",
+                "name": "Ayo",
+                "playcount": "635896942"
+            }
+        ],
+        "lastUpdate": 1744988298
+    },
+    {
+        "id": "6nS5roXSAGhTGr34W6n7Et",
+        "name": "Disclosure",
+        "followers": 2311316,
+        "worldRank": 296,
+        "monthlyListeners": 21933294,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb3faf416d3be99d63fec18baa",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016dad2675d89bc8414eca4c75e",
+        "topSongs": [
+            {
+                "id": "51ODNNDZm21HU7wI7cccRr",
+                "name": "Latch",
+                "playcount": "1226732025"
+            },
+            {
+                "id": "0xoYZ45fgTfyQYREZPN7Sa",
+                "name": "You & Me - Rivo Remix",
+                "playcount": "265301514"
+            },
+            {
+                "id": "29I9dv9Nq704w0Oc5yFGsR",
+                "name": "She’s Gone, Dance On",
+                "playcount": "79252327"
+            }
+        ],
+        "lastUpdate": 1744988295
+    },
+    {
+        "id": "4V8Sr092TqfHkfAA5fXXqG",
+        "name": "Luis Fonsi",
+        "followers": 10818266,
+        "worldRank": 299,
+        "monthlyListeners": 21855707,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb2620d7e19f51d9c4b7e853ce",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165b2fac8aa5ade70d8e3c10b4",
+        "topSongs": [
+            {
+                "id": "6habFhsOp2NvshLv26DqMb",
+                "name": "Despacito",
+                "playcount": "1908386617"
+            },
+            {
+                "id": "1vnnXMrBeEWiRg3YCMCjQq",
+                "name": "Despacito - Remix",
+                "playcount": "1790214680"
+            },
+            {
+                "id": "0mlAOSILGRys2IbvyOT5VJ",
+                "name": "Échame La Culpa",
+                "playcount": "998046854"
+            }
+        ],
+        "lastUpdate": 1744988299
+    },
+    {
+        "id": "7ltDVBr6mKbRvohxheJ9h1",
+        "name": "ROSALÍA",
+        "followers": 8471502,
+        "worldRank": 304,
+        "monthlyListeners": 21742894,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101681ac773bd15c3ee42eaf1d47",
+        "topSongs": [
+            {
+                "id": "5UmfBGfRJgjZ8CdhgffabQ",
+                "name": "New Woman (feat. ROSALÍA)",
+                "playcount": "303491438"
+            },
+            {
+                "id": "53tfEupEzQRtVFOeZvk7xq",
+                "name": "DESPECHÁ",
+                "playcount": "1176504781"
+            },
+            {
+                "id": "609E1JCInJncactoMmkDon",
+                "name": "BESO",
+                "playcount": "755907671"
+            }
+        ],
+        "lastUpdate": 1744988254
+    },
+    {
+        "id": "20JZFwl6HVl6yg8a4H3ZqK",
+        "name": "Panic! At The Disco",
+        "followers": 12586309,
+        "worldRank": 314,
+        "monthlyListeners": 21292092,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2",
+        "headerImage": "https://i.scdn.co/image/ab676186000010160c465b5f4996a857b3d48cc1",
+        "topSongs": [
+            {
+                "id": "1rqqCSm0Qe4I9rUvWncaom",
+                "name": "High Hopes",
+                "playcount": "1750904964"
+            },
+            {
+                "id": "2DgdHcjWmO3qd50RzuBLgZ",
+                "name": "House of Memories",
+                "playcount": "848359848"
+            },
+            {
+                "id": "4bPQs0PHn4xbipzdPfn6du",
+                "name": "I Write Sins Not Tragedies",
+                "playcount": "977227674"
+            }
+        ],
+        "lastUpdate": 1744988297
+    },
+    {
+        "id": "163tK9Wjr9P9DmM0AVK7lm",
+        "name": "Lorde",
+        "followers": 10223600,
+        "worldRank": 320,
+        "monthlyListeners": 21174936,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016a24bb4149a9284cd4445371f",
+        "topSongs": [
+            {
+                "id": "2MvvoeRt8NcOXWESkxWn3g",
+                "name": "Ribs",
+                "playcount": "751137134"
+            },
+            {
+                "id": "2dLLR6qlu5UJ5gk0dKz0h3",
+                "name": "Royals",
+                "playcount": "1337742363"
+            },
+            {
+                "id": "3G6hD9B2ZHOsgf4WfNu7X1",
+                "name": "Team",
+                "playcount": "902627513"
+            }
+        ],
+        "lastUpdate": 1744988303
+    },
+    {
+        "id": "5he5w2lnU9x7JFhnwcekXX",
+        "name": "Skrillex",
+        "followers": 7745088,
+        "worldRank": 327,
+        "monthlyListeners": 20941161,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb61f92702ca14484aa263a931",
+        "headerImage": "https://i.scdn.co/image/ab676186000010162bc122690e4c9024b20d0388",
+        "topSongs": [
+            {
+                "id": "66hayvUbTotekKU3H4ta1f",
+                "name": "Where Are Ü Now (with Justin Bieber)",
+                "playcount": "1168773644"
+            },
+            {
+                "id": "0mlf3yOGzVnIVxjybDQL3h",
+                "name": "Make It Bun Dem",
+                "playcount": "333731961"
+            },
+            {
+                "id": "1q0PYXTbDsirp2l74ng6pn",
+                "name": "In Da Getto",
+                "playcount": "524634403"
+            }
+        ],
+        "lastUpdate": 1744988306
+    },
+    {
+        "id": "0lAWpj5szCSwM4rUMHYmrr",
+        "name": "Måneskin",
+        "followers": 10253148,
+        "worldRank": 330,
+        "monthlyListeners": 20894813,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101652deb69c86ed71c145fdbbbe",
+        "topSongs": [
+            {
+                "id": "3Wrjm47oTz2sjIgck11l5e",
+                "name": "Beggin'",
+                "playcount": "1864519724"
+            },
+            {
+                "id": "4pt5fDVTg5GhEvEtlz9dKk",
+                "name": "I WANNA BE YOUR SLAVE",
+                "playcount": "1264260763"
+            },
+            {
+                "id": "44Xyja7xYPlVC6v2CeweSi",
+                "name": "GOSSIP (feat. Tom Morello)",
+                "playcount": "346517529"
+            }
+        ],
+        "lastUpdate": 1744988290
+    },
+    {
+        "id": "0QHgL1lAIqAw0HtD7YldmP",
+        "name": "DJ Khaled",
+        "followers": 12000078,
+        "worldRank": 333,
+        "monthlyListeners": 20869088,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb084f36c2ae2da4a02494e1e5",
+        "headerImage": "https://i.scdn.co/image/ab676186000010163082dfe645ea63ce6c3adcfe",
+        "topSongs": [
+            {
+                "id": "45XhKYRRkyeqoW3teSOkCM",
+                "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+                "playcount": "1273340886"
+            },
+            {
+                "id": "1jYiIOC5d6soxkJP81fxq2",
+                "name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
+                "playcount": "1321040706"
+            },
+            {
+                "id": "3I2OBA3kKdbDYzFAkDuc81",
+                "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+                "playcount": "62692952"
+            }
+        ],
+        "lastUpdate": 1744988296
+    },
+    {
+        "id": "77ziqFxp5gaInVrF2lj4ht",
+        "name": "Sech",
+        "followers": 12081654,
+        "worldRank": 344,
+        "monthlyListeners": 20490844,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb2ef2187023b7df95a70b4587",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161db7dd0bd1a12ba97d0e38ce",
+        "topSongs": [
+            {
+                "id": "5FLzweTtgQurkLPs0E7uEO",
+                "name": "Priti",
+                "playcount": "18151228"
+            },
+            {
+                "id": "0G2zPzWqVjR68iNPmx2TBe",
+                "name": "Volando - Remix",
+                "playcount": "780137516"
+            },
+            {
+                "id": "38RIEav39FGi86jppxO0du",
+                "name": "Ignorantes",
+                "playcount": "713343635"
+            }
+        ],
+        "lastUpdate": 1744988312
+    },
+    {
+        "id": "7jVv8c5Fj3E9VhNjxT4snq",
+        "name": "Lil Nas X",
+        "followers": 12362527,
+        "worldRank": 348,
+        "monthlyListeners": 20267633,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb3758a33e782b46bd7f174e1d",
+        "headerImage": "https://i.scdn.co/image/ab676186000010167467350d18745bac53a7a522",
+        "topSongs": [
+            {
+                "id": "5Z9KJZvQzH6PFmb8SNkxuk",
+                "name": "INDUSTRY BABY (feat. Jack Harlow)",
+                "playcount": "2152672453"
+            },
+            {
+                "id": "1SC5rEoYDGUK4NfG82494W",
+                "name": "MONTERO (Call Me By Your Name)",
+                "playcount": "2046656472"
+            },
+            {
+                "id": "0e8nrvls4Qqv5Rfa2UhqmO",
+                "name": "THATS WHAT I WANT",
+                "playcount": "1141479156"
+            }
+        ],
+        "lastUpdate": 1744988289
+    },
+    {
+        "id": "51Blml2LZPmy7TTiAg47vQ",
+        "name": "U2",
+        "followers": 13175674,
+        "worldRank": 353,
+        "monthlyListeners": 20067419,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebe62be215d2ee31bcd97edaba",
+        "headerImage": "https://i.scdn.co/image/ab6761860000101635ae00e2695e911e2816127d",
+        "topSongs": [
+            {
+                "id": "6ADSaE87h8Y3lccZlBJdXH",
+                "name": "With Or Without You",
+                "playcount": "1205873747"
+            },
+            {
+                "id": "6wpGqhRvJGNNXwWlPmkMyO",
+                "name": "I Still Haven't Found What I'm Looking For",
+                "playcount": "831326151"
+            },
+            {
+                "id": "1VuBmEauSZywQVtqbxNqka",
+                "name": "Beautiful Day",
+                "playcount": "644277932"
+            }
+        ],
+        "lastUpdate": 1744988305
+    },
+    {
+        "id": "43ZHCT0cAZBISjO8DG9PnE",
+        "name": "Elvis Presley",
+        "followers": 10525887,
+        "worldRank": 354,
+        "monthlyListeners": 20060094,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
+        "headerImage": "https://i.scdn.co/image/ab676186000010165deb8f0c94f596026458cc8d",
+        "topSongs": [
+            {
+                "id": "44AyOl4qVkzS48vBsbNXaC",
+                "name": "Can't Help Falling in Love",
+                "playcount": "1081311558"
+            },
+            {
+                "id": "7zMUCLm1TN9o9JlLISztxO",
+                "name": "Burning Love",
+                "playcount": "440122821"
+            },
+            {
+                "id": "1H5IfYyIIAlgDX8zguUzns",
+                "name": "Suspicious Minds",
+                "playcount": "547443165"
+            }
+        ],
+        "lastUpdate": 1744988279
+    },
+    {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer",
+        "followers": 10319324,
+        "worldRank": 357,
+        "monthlyListeners": 19998584,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb5048d9616b459ef90f04b6d8",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161166fc436eef6c9d3c66ea00",
+        "topSongs": [
+            {
+                "id": "3NxWJWftvkstyxvb1pZlFo",
+                "name": "Teeth",
+                "playcount": "831625645"
+            },
+            {
+                "id": "2iUXsYOEPhVqEBwsqP70rE",
+                "name": "Youngblood",
+                "playcount": "1959890664"
+            },
+            {
+                "id": "1gugDOSMREb34Xo0c1PlxM",
+                "name": "She Looks So Perfect",
+                "playcount": "788873533"
+            }
+        ],
+        "lastUpdate": 1744988310
+    },
+    {
+        "id": "5JZ7CnR6gTvEMKX4g70Amv",
+        "name": "Lauv",
+        "followers": 6607265,
+        "worldRank": 394,
+        "monthlyListeners": 18893013,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f",
+        "headerImage": "https://i.scdn.co/image/ab676186000010169c9af006d599a9ecb5d03ed2",
+        "topSongs": [
+            {
+                "id": "4MagTPnkPiDuIa4P8GtW1b",
+                "name": "I Like Me Better",
+                "playcount": "2014448743"
+            },
+            {
+                "id": "6mXdCcFnPKQznj4CmMRmHC",
+                "name": "Mean It",
+                "playcount": "443653503"
+            },
+            {
+                "id": "0SccFtYdj75y6lL2OW10Cf",
+                "name": "Steal The Show",
+                "playcount": "170145113"
+            }
+        ],
+        "lastUpdate": 1744988314
+    },
+    {
+        "id": "5j4HeCoUlzhfWtjAfM1acR",
+        "name": "Stromae",
+        "followers": 3732285,
+        "worldRank": 415,
+        "monthlyListeners": 18318946,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2",
+        "headerImage": "https://i.scdn.co/image/ab676186000010162850134436f6f98a413f8f05",
+        "topSongs": [
+            {
+                "id": "2LwsunYgfRoqyIsNtgOCQx",
+                "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+                "playcount": "349548723"
+            },
+            {
+                "id": "2GYHyAoLWpkxLVa4oYTVko",
+                "name": "Alors on danse - Radio Edit",
+                "playcount": "791039892"
+            },
+            {
+                "id": "1ZHvGQZNz6HLbxhAtu7pin",
+                "name": "Ma Meilleure Ennemie ft. Coldplay",
+                "playcount": "6543680"
+            }
+        ],
+        "lastUpdate": 1744988332
+    },
+    {
+        "id": "4S9EykWXhStSc15wEx8QFK",
+        "name": "Céline Dion",
+        "followers": 9715977,
+        "worldRank": 434,
+        "monthlyListeners": 17736690,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebc3b380448158e7b6e5863cde",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016743a8ace11b48535bba3d6fb",
+        "topSongs": [
+            {
+                "id": "28UMiBhn383n9S7GL4tsxD",
+                "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+                "playcount": "497992582"
+            },
+            {
+                "id": "33LC84JgLvK2KuW43MfaNq",
+                "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+                "playcount": "616033663"
+            },
+            {
+                "id": "5EQzuYfTZt7B2LqlvTF49l",
+                "name": "It's All Coming Back to Me Now",
+                "playcount": "321348846"
+            }
+        ],
+        "lastUpdate": 1744988315
+    },
+    {
+        "id": "0eDvMgVFoNV3TpwtrVCoTj",
+        "name": "Pop Smoke",
+        "followers": 15147635,
+        "worldRank": 438,
+        "monthlyListeners": 17649248,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09",
+        "headerImage": "https://i.scdn.co/image/ab676186000010161841041360ed59ae157c33cc",
+        "topSongs": [
+            {
+                "id": "1tkg4EHVoqnhR6iFEXb60y",
+                "name": "What You Know Bout Love",
+                "playcount": "1253103231"
+            },
+            {
+                "id": "79s5XnCN4TJKTVMSmOx8Ep",
+                "name": "Dior",
+                "playcount": "1179595311"
+            },
+            {
+                "id": "5rZlwNFl01HqLWBQGryKSm",
+                "name": "Mood Swings (feat. Lil Tjay)",
+                "playcount": "872879014"
+            }
+        ],
+        "lastUpdate": 1744988304
+    },
+    {
+        "id": "6oMuImdp5ZcFhWP0ESe6mG",
+        "name": "Migos",
+        "followers": 14388325,
+        "worldRank": 442,
+        "monthlyListeners": 17545978,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5ebf4593f7b778219838d858c34",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016b095d7ec57a396f34583c6ee",
+        "topSongs": [
+            {
+                "id": "7tr2za8SQg2CI8EDgrdtNl",
+                "name": "Slide (feat. Frank Ocean & Migos)",
+                "playcount": "1153454593"
+            },
+            {
+                "id": "1cMMVJ4FDqhCci9efd1BU6",
+                "name": "Need It (feat. YoungBoy Never Broke Again)",
+                "playcount": "406539284"
+            },
+            {
+                "id": "2UVbBKQOdFAekPTRsnkzcf",
+                "name": "Stir Fry",
+                "playcount": "740877033"
+            }
+        ],
+        "lastUpdate": 1744988309
+    },
+    {
+        "id": "2kCcBybjl3SAtIcwdWpUe3",
+        "name": "Lil Peep",
+        "followers": 14576685,
+        "worldRank": 466,
+        "monthlyListeners": 16939803,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb3d9d59e200e82fa53d8781a1",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016155c0bcb136c1340c6550a3f",
+        "topSongs": [
+            {
+                "id": "4jvjzW7Hm0yK4LvvE0Paz9",
+                "name": "Falling Down - Bonus Track",
+                "playcount": "1444510557"
+            },
+            {
+                "id": "4k3xDpAdBuM17mNNHhOZkK",
+                "name": "nuts",
+                "playcount": "630992702"
+            },
+            {
+                "id": "1WbhIxkn5ECsOwUm795iX1",
+                "name": "Star Shopping",
+                "playcount": "1412271335"
+            }
+        ],
+        "lastUpdate": 1744988307
+    },
+    {
+        "id": "1HBjj22wzbscIZ9sEb5dyf",
+        "name": "Jonas Blue",
+        "followers": 3836739,
+        "worldRank": 470,
+        "monthlyListeners": 16847557,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb1382d5a1d6a664832ec547a8",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016d12b69ca7445e69e99fc140d",
+        "topSongs": [
+            {
+                "id": "1SN1vSPsr4V4tIUTR3s8YW",
+                "name": "Fast Car",
+                "playcount": "1246049220"
+            },
+            {
+                "id": "3P3pw6C19j31Rnzgo3JG7o",
+                "name": "Perfect Strangers",
+                "playcount": "1140539252"
+            },
+            {
+                "id": "7jEyX4bqaCSdMN4D4JNnVj",
+                "name": "Mama",
+                "playcount": "1014396531"
+            }
+        ],
+        "lastUpdate": 1744988319
+    },
+    {
+        "id": "757aE44tKEUQEqRuT6GnEB",
+        "name": "Roddy Ricch",
+        "followers": 11372972,
+        "worldRank": 481,
+        "monthlyListeners": 16669379,
+        "avatarImage": "https://i.scdn.co/image/ab6761610000e5eb88d7900663b237167c4be332",
+        "headerImage": "https://i.scdn.co/image/ab67618600001016e08e57c626a20cdcda07f57c",
+        "topSongs": [
+            {
+                "id": "0nbXyq5TXYPCO7pr3N8S4I",
+                "name": "The Box",
+                "playcount": "2141832978"
+            },
+            {
+                "id": "3QzAOrNlsabgbMwlZt7TAY",
+                "name": "Ballin' (with Roddy Ricch)",
+                "playcount": "980320775"
+            },
+            {
+                "id": "1Z0cZI0UzNbP9L8MzzGxqf",
+                "name": "Walk Em Down (feat. Roddy Ricch)",
+                "playcount": "625290656"
+            }
+        ],
+        "lastUpdate": 1744988301
+    }
+]
