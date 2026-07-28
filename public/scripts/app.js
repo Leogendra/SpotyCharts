@@ -21,7 +21,7 @@ var record = 0;
 
 
 window.addEventListener("load", function() {
-    setLastUpdate("../data/data_en.json");
+    setLastUpdate("/data/artists.en.json");
 });
 
 
@@ -80,11 +80,11 @@ big_title.addEventListener("click", async (event) => {
 language_button.addEventListener("click", async (event) => {
     if (language == "en") { 
         language = "fr"; 
-        setLastUpdate("../data/data_fr.json");
+        setLastUpdate("/data/artists.fr.json");
     }
     else { 
         language = "en"; 
-        setLastUpdate("../data/data_en.json");
+        setLastUpdate("/data/artists.en.json");
     }
 });
 
@@ -145,11 +145,11 @@ async function setLastUpdate(file_name) {
 async function getArtist() {
     try {
         if (language == "en") {
-            const artistData = await loadAndParseJSON("../data/data_en.json");
+            const artistData = await loadAndParseJSON("/data/artists.en.json");
             return artistData;
         }
         else {
-            const artistData = await loadAndParseJSON("../data/data_fr.json");
+            const artistData = await loadAndParseJSON("/data/artists.fr.json");
             return artistData;
         }
     }
