@@ -1,5 +1,15 @@
-# cache
+# deps
+node_modules/
+
+# editor
 .vscode/
 
-# useless big files
-data/
+# env / secrets
+.env
+.env.local
+
+# atomic write leftovers
+*.tmp
+
+# legacy pipeline, kept locally until migration is validated
+backend/
