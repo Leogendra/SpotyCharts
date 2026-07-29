@@ -1,15 +1,6 @@
-# deps
 node_modules/
-
-# editor
 .vscode/
-
-# env / secrets
 .env
 .env.local
-
-# atomic write leftovers
 *.tmp
-
-# legacy pipeline, kept locally until migration is validated
-backend/
+data/
