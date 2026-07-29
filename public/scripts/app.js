@@ -21,7 +21,7 @@ var record = 0;
 
 
 window.addEventListener("load", function() {
-    setLastUpdate("/data/artists.en.json");
+    set_last_update("/data/artists_en.json");
 });
 
 
@@ -80,11 +80,11 @@ big_title.addEventListener("click", async (event) => {
 language_button.addEventListener("click", async (event) => {
     if (language == "en") { 
         language = "fr"; 
-        setLastUpdate("/data/artists.fr.json");
+        set_last_update("/data/artists_fr.json");
     }
     else { 
         language = "en"; 
-        setLastUpdate("/data/artists.en.json");
+        set_last_update("/data/artists_en.json");
     }
 });
 
@@ -124,8 +124,8 @@ text_help.addEventListener("click", async (event) => {
 
 
 
-async function setLastUpdate(file_name) {
-    const artistData = await loadAndParseJSON(file_name);
+async function set_last_update(file_name) {
+    const artistData = await load_and_parse_JSON(file_name);
     const maj_date = document.querySelector('.maj-date');
     let mostRecentDate = new Date(artistData[0].lastUpdate);
 
@@ -142,14 +142,14 @@ async function setLastUpdate(file_name) {
 
 /***************** FONCTIONS DE CHARGEMENT *****************/
 
-async function getArtist() {
+async function get_artist() {
     try {
         if (language == "en") {
-            const artistData = await loadAndParseJSON("/data/artists.en.json");
+            const artistData = await load_and_parse_JSON("/data/artists_en.json");
             return artistData;
         }
         else {
-            const artistData = await loadAndParseJSON("/data/artists.fr.json");
+            const artistData = await load_and_parse_JSON("/data/artists_fr.json");
             return artistData;
         }
     }
@@ -159,7 +159,7 @@ async function getArtist() {
 }
 
 
-function getNumberToDisplay(artist, mode) {
+function get_number_to_display(artist, mode) {
     let nbToDisplay;
 
     if (mode == "followers") {
@@ -202,8 +202,8 @@ async function updateCardWithArtistsInfo(artist, numCard, mode) {
     const cardFollowers = card.querySelector('.card-followers');
     let stringToDisplay;
     if (numCard == 1) {
-        if (mode == "worldRank") { stringToDisplay = "Top " + getNumberToDisplay(artist, mode); }
-        else { stringToDisplay = formatNumber(getNumberToDisplay(artist, mode)); }
+        if (mode == "worldRank") { stringToDisplay = "Top " + get_number_to_display(artist, mode); }
+        else { stringToDisplay = format_number(get_number_to_display(artist, mode)); }
     }
     else {
         if (mode == "worldRank") { stringToDisplay = "Top ???"; }
@@ -230,8 +230,8 @@ async function updateCardWithArtistsInfo(artist, numCard, mode) {
 }
 
 
-async function revealNumber(artist, mode) {
-    let targetNumber = getNumberToDisplay(artist, mode);
+async function reveal_number(artist, mode) {
+    let targetNumber = get_number_to_display(artist, mode);
     let durationMs;
     if (speed) {
         durationMs = 1000;
@@ -261,7 +261,7 @@ async function revealNumber(artist, mode) {
                 clearInterval(interval);
                 currentNumber = targetNumber;
             }
-            secondCardFollowers.textContent = formatNumber(Math.floor(currentNumber));
+            secondCardFollowers.textContent = format_number(Math.floor(currentNumber));
         }, updateInterval);
     }
 
@@ -275,8 +275,8 @@ async function revealNumber(artist, mode) {
 /***************** FONCTION DE JEU *****************/
 
 async function play() {
-    const artists = await getArtist();
-    shuffleArray(artists);
+    const artists = await get_artist();
+    shuffle_array(artists);
     let artist_counter = 0;
     let artist1;
     let artist2 = artists[artist_counter % artists.length];
@@ -322,11 +322,11 @@ async function play() {
         const vote = await votePromise;
 
         // affichage des followers
-        await revealNumber(artist2, mode);
+        await reveal_number(artist2, mode);
 
         //check si réussi ou pas
-        const numberToDisplay1 = getNumberToDisplay(artist1, mode);
-        const numberToDisplay2 = getNumberToDisplay(artist2, mode);
+        const numberToDisplay1 = get_number_to_display(artist1, mode);
+        const numberToDisplay2 = get_number_to_display(artist2, mode);
 
         if (mode === "worldRank") {
             if (vote == 1) {

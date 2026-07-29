@@ -1,4 +1,4 @@
-async function loadAndParseJSON(fichier) {
+async function load_and_parse_JSON(fichier) {
     try {
         const response = await fetch(fichier);
         const jsonData = await response.json();
