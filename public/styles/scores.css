@@ -39,9 +39,6 @@
     font-size: 1.2rem;
 }
 
-.score:hover {
-    transform: scale(1.3);
-}
 
 @media only screen and (max-device-width : 1000px) {
     .div-scores {
