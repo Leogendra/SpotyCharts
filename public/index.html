@@ -15,7 +15,8 @@
 <body>
     <div class="home">
         <div class="big-title">SpotyCharts</div>
-        <div class="choose-mode">Dernière MàJ des artistes : <span class="maj-date underline"></span></div>
+        <div class="choose-mode"><span data-translations="lastUpdate">Last update of artists:</span> <span
+                class="maj-date underline"></span></div>
 
         <div class="langue">
             <label class="switch">
@@ -24,33 +25,27 @@
             </label>
         </div>
 
-        <section class="modes">
+        <section class="dataset">
             <div>
-                <input type="radio" id="control_02" name="select" value="2" checked>
-                <label for="control_02" class="label_modes">
-                    <h2 class="mode">Auditeurs mensuels</h2>
+                <input type="radio" id="dataset_en" name="dataset" value="en" checked>
+                <label for="dataset_en" class="label_modes">
+                    <h2 class="mode" data-translations="topWorld">World artists</h2>
                 </label>
             </div>
             <div>
-                <input type="radio" id="control_01" name="select" value="1">
-                <label for="control_01" class="label_modes">
-                    <h2 class="mode">Followers</h2>
+                <input type="radio" id="dataset_fr" name="dataset" value="fr">
+                <label for="dataset_fr" class="label_modes">
+                    <h2 class="mode" data-translations="topFrance">French artists</h2>
                 </label>
             </div>
-            <!-- <div>
-                <input type="radio" id="control_03" name="select" value="3">
-                <label for="control_03" class="label_modes">
-                    <h2 class="mode">Classement mondial</h2>
-                </label>
-            </div> -->
         </section>
 
         <button class="animated-button">
             <div class="rotating-image">
                 <img src="assets/banniere_black.png" alt="SpotyCharts">
             </div>
-            <div class="inner-button">
-                Jouer
+            <div class="inner-button" data-translations="play">
+                Play
             </div>
         </button>
     </div>
@@ -70,14 +65,12 @@
             </div>
 
             <div class="div-scores">
-                <div class="help">
-                    <span class="qui gras">Qui</span> a le plus <span class="gras souligne">d'auditeurs mensuels ?</span>
-                </div>
+                <div class="help" data-translations-html="helpMonthly"></div>
                 <div class="score">
                     <span class="nb-score">0</span>🔥
                 </div>
                 <div class="best">
-                    Record : <span class="nb-best">0</span>
+                    <span data-translations="record">Record:</span> <span class="nb-best">0</span>
                 </div>
             </div>
 
@@ -96,6 +89,7 @@
 
     <script src="scripts/utils.js"></script>
     <script src="scripts/parseur.js"></script>
+    <script src="scripts/translations.js"></script>
     <script src="scripts/app.js"></script>
 </body>
 
